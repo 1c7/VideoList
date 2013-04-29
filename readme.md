@@ -1,7 +1,7 @@
 
 
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
-目录更新时间 2013-4-29
+
 
 
 
@@ -53,10 +53,10 @@
 ### 搬运系列(字幕来源网络,非本人翻译)
 
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
-* [我们如何看到顏色？](http://www.weibo.com/2004104451/zqKTZuLhl)
-* [什么是放射性？](http://www.weibo.com/2004104451/zszHeAPIJ)
+* [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
+* [什么是放射性?](http://www.weibo.com/2004104451/zszHeAPIJ)
 * [癌细胞和健康细胞有什么不同?](http://www.weibo.com/2004104451/zszJh6nYU) 
-* [为什么互相竞争的商店会开在一起？](http://www.weibo.com/2004104451/zpgjvFzu6)
+* [为什么互相竞争的商店会开在一起?](http://www.weibo.com/2004104451/zpgjvFzu6)
 * [为什么我们还找不到外星生命存在的证据呢?](http://www.weibo.com/2004104451/zqKUb2t3g)
 
 <br>
@@ -74,17 +74,8 @@
 ### Smarter Every Day
 
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
-
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
-
 * [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性 - ](http://www.weibo.com/2004104451/zpfZemY4c)
-
-
-
-
-
-
-
 
 
 
