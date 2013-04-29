@@ -33,18 +33,16 @@
 <br>
 ### 其他的原创翻译视频
 
-* [(加拿大航天局)在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
-* [(加拿大航天局)在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
-* [(加拿大航天局)在太空里怎么刷牙? ](http://www.weibo.com/2004104451/zsgJFrqJT)
-* [(加拿大航天局)在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
-* [(加拿大航天局)国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
+* [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
+* [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
+* [(加拿大航天局) 在太空里怎么刷牙? ](http://www.weibo.com/2004104451/zsgJFrqJT)
+* [(加拿大航天局) 在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
+* [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
 
-<br>
-
-* [(TED-ed动画)宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
-* [(SciShow)太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
-* [(MinuteEarth)山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
-* [(MinuteEarth)为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
+* [(TED-ed动画) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
+* [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
+* [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
+* [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 
 
@@ -57,8 +55,6 @@
 * [癌细胞和健康细胞有什么不同?](http://www.weibo.com/2004104451/zszJh6nYU) 
 * [为什么互相竞争的商店会开在一起?](http://www.weibo.com/2004104451/zpgjvFzu6)
 * [为什么我们还找不到外星生命存在的证据呢?](http://www.weibo.com/2004104451/zqKUb2t3g)
-
-<br>
 
 * [微生物与你](http://www.weibo.com/2004104451/zszHRBRiK)
 * [所有英雄的内在模式,英雄之旅](http://www.weibo.com/2004104451/zsqZMs7ZR)
