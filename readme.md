@@ -27,11 +27,11 @@
 
 <br>
 ### 十分钟生态学
-[1.地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)
+[1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)
 
 
 <br>
-### 其他的原创翻译视频
+### 没法分类的其他翻译视频
 
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
 * [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
@@ -66,10 +66,14 @@
 <br>
 ### Smarter Every Day
 
+
+* [直升机物理学1 - 介绍 | Helicopter Physics Series Intro - #1](http://www.weibo.com/2004104451/ztbsK77zr)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
 * [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性 - ](http://www.weibo.com/2004104451/zpfZemY4c)
 
 
 
-
+### 非翻译视频
+* [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
+* [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
