@@ -20,7 +20,8 @@
 [5. 细胞膜&运输   | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  
 [6. 植物细胞    | Plant Cells](http://www.weibo.com/2004104451/zrYnklgv6)  
 [7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  
-[8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
+[8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)
+[9.遗传         | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 
 
@@ -29,11 +30,12 @@
 ### 十分钟生态学
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)  
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi)  
-[3. ]()  
+[3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
 
 <br>
 ### 没法分类的其他翻译视频
-
+* [(加拿大航天局) 克里斯·哈德菲尔德, 教你如何控制空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
+* [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
 * [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
 * [(加拿大航天局) 在太空里怎么刷牙? ](http://www.weibo.com/2004104451/zsgJFrqJT)
@@ -44,6 +46,8 @@
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
+
+
 
 
 <br>
