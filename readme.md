@@ -3,6 +3,9 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
 
+<br>
+### :D
+[如何成为你想成为的人? -- 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvbE9EVii)  
 
 
 <br>
@@ -14,7 +17,7 @@
 <br>
 ### 十分钟生物学
 [1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  
-[2. 水 - 最棒的液体&nbsp;| Water - Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  
+[2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  
 [5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  
@@ -22,6 +25,7 @@
 [7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
+[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zva1lpFHP)  
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 
 
@@ -33,7 +37,7 @@
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
 
 <br>
-### 没法分类的其他翻译视频
+### 科学,太空
 * [(加拿大航天局) 克里斯·哈德菲尔德, 教你如何控制空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
