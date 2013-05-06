@@ -26,6 +26,7 @@
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
 [14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zva1lpFHP)  
+[16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 
 
@@ -75,12 +76,11 @@
 <br>
 ### Smarter Every Day
 
-
-* [直升机物理学1 - 介绍 | Helicopter Physics Series Intro - #1](http://www.weibo.com/2004104451/ztbsK77zr)
+* [ Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
 * [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性 - ](http://www.weibo.com/2004104451/zpfZemY4c)
-
+* [直升机物理学1 - 介绍 | Helicopter Physics Series Intro - #1](http://www.weibo.com/2004104451/ztbsK77zr)
 
 <br>
 ### 非翻译视频
