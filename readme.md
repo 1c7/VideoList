@@ -37,9 +37,10 @@
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi)  
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
 
+
 <br>
-### 科学,太空
-* [(加拿大航天局) 克里斯·哈德菲尔德, 教你如何控制空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
+### 科学, 太空, 其他
+* [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
 * [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
@@ -51,6 +52,7 @@
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
+* [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
 
 
 
@@ -76,11 +78,17 @@
 <br>
 ### Smarter Every Day
 
-* [ Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
+* [Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
+
+* [Smarter Every Day 45 - 直升机物理学1 - 介绍](http://www.weibo.com/2004104451/ztbsK77zr)
+* [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
+
+* [Smarter Every Day 62 - 鸟的翅膀是怎么工作的?](http://weibo.com/2004104451/zvsIqb4PE)
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
-* [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性 - ](http://www.weibo.com/2004104451/zpfZemY4c)
-* [直升机物理学1 - 介绍 | Helicopter Physics Series Intro - #1](http://www.weibo.com/2004104451/ztbsK77zr)
+* [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性](http://www.weibo.com/2004104451/zpfZemY4c)
+* [Smarter Every Day 87 - 高速录像解析蝙蝠的飞行原理](http://weibo.com/2004104451/zvslLpLsZ)
+
 
 <br>
 ### 非翻译视频
