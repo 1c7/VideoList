@@ -96,10 +96,6 @@
 <br>
 <br>
 
-
-
-## 翻译制作相关说明
-
 ### 原视频&字幕下载
 
 [十分钟生物学-翻译完成](http://pan.baidu.com/share/link?shareid=410254&uk=3760931755#dir/path=%2F(%E5%B7%B2%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6)  
@@ -111,14 +107,15 @@
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具.
 3. 手
 
-### Youtube视频怎么下载?
+### Youtube的视频怎么下载?
 我是用Chrome来上Youtube和下载视频的  
 1. 首先你需要安装Chrome的[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)插件  
 2. 然后再安装[这个脚本](http://userscripts.org/scripts/show/62634)  
 3. 现在你看Youtube视频的时候下方就会有下载按钮了.
 
 
-### Youtube视频的字幕怎么下载?
+
+### 视频的字幕去那里下载?
 [http://www.yousub.net/](http://www.yousub.net/) 这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
 
 [http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)
