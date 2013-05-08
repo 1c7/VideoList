@@ -4,18 +4,18 @@
 
 
 <br>
-#### :D
+##### :D
 [如何成为你想成为的人? -- 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvbE9EVii)  
 
 
 <br>
-#### 十分钟美国历史
+##### 十分钟美国历史
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zuoM2BQCn)
 
 
 
 <br>
-#### 十分钟生物学
+##### 十分钟生物学
 [1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  
 [2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  
@@ -32,14 +32,14 @@
 
 
 <br>
-#### 十分钟生态学
+##### 十分钟生态学
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)  
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi)  
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
 
 
 <br>
-#### 科学, 太空, 其他
+##### 科学, 太空, 其他
 * [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
@@ -58,8 +58,7 @@
 
 
 <br>
-#### 搬运系列(字幕来源网络,非本人翻译)
-
+##### 搬运系列(字幕来源网络,非本人翻译)
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
 * [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
 * [什么是放射性?](http://www.weibo.com/2004104451/zszHeAPIJ)
@@ -76,8 +75,7 @@
 
 
 <br>
-#### Smarter Every Day
-
+##### Smarter Every Day
 * [Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 62 - 鸟的翅膀是怎么工作的?](http://weibo.com/2004104451/zvsIqb4PE)
@@ -91,27 +89,24 @@
 #### 非翻译视频
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
+<br><br><br>
 
+----
+
+<br>
+##### 原视频&字幕下载
+* [十分钟生物学-原视频&字幕文件]
+* [十分钟生物学-还没翻译完的视频]
 
 
 
 <br>
-#### 原视频&字幕下载
-
-[十分钟生物学-原视频&字幕文件]
-
-[十分钟生物学-还没翻译完的视频]
-
-
-
-<br>
-#### 翻译字幕用到的工具有:
-
+##### 翻译字幕用到的工具有:
 1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 它不负责压制工作, 也就是把字幕内嵌到视频里去.  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具.  
 
 <br>
-#### Youtube的视频怎么下载?
+##### Youtube的视频怎么下载?
 我是用Chrome来上Youtube和下载视频的  
 
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
@@ -120,11 +115,11 @@
 
 
 <br>
-#### 视频字幕怎么下载?
-[http://www.yousub.net/](http://www.yousub.net/)  
+##### 视频字幕怎么下载?
+* [http://www.yousub.net/](http://www.yousub.net/)  
 这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
 
-[http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)  
+* [http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)  
 这个地方只能下载自动字幕.
 
 <br>
