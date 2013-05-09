@@ -1,16 +1,14 @@
-
-
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
 
 <br>
 ##### :D
-[如何成为你想成为的人? -- 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvbE9EVii)  
+[如何成为你想成为的人? --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 
 
 <br>
 ##### 十分钟美国历史
-[1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zuoM2BQCn)
+[1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)
 
 
 
@@ -26,7 +24,10 @@
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
 [14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zva1lpFHP)  
+[15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  
 [16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  
+[17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  
+[19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 
 
@@ -89,6 +90,11 @@
 #### 非翻译视频
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
+* [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
+* [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
+* [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
+* [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)
+
 <br><br><br>
 
 ----
@@ -122,7 +128,6 @@
 * [http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)  
 这个地方只能下载自动字幕.
 
-<br>
 <br>
 
 
