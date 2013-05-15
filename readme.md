@@ -42,6 +42,7 @@
 
 <br>
 ##### 太空
+* [游览国际空间站- 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
 * [(TED-ed动画) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
 * [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
@@ -51,11 +52,11 @@
 * [(加拿大航天局) 在太空里怎么刷牙? ](http://www.weibo.com/2004104451/zsgJFrqJT)
 * [(加拿大航天局) 在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
 * [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
-* [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)
 * [(加拿大航天局) 在国际空间站上想吐怎么办?](http://www.weibo.com/2004104451/zwe6U8iJ3)
+* [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
-
+* [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)
 
 <br>
 ##### 其他
@@ -64,7 +65,7 @@
 * [(MinuteEarth) 冷冻食物的故事](http://www.weibo.com/2004104451/zvXm3oUTu)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
-
+* [斯潘格勒实验秀 -- 烧钱 -- (第1季第11集)](http://www.weibo.com/2004104451/zwEEABkXt)
 
 
 
@@ -96,6 +97,8 @@
 * [Smarter Every Day 45 - 直升机物理学1 - 介绍](http://www.weibo.com/2004104451/ztbsK77zr)
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
 
+
+
 <br>
 #### 非翻译视频
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
@@ -104,6 +107,7 @@
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
 * [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)
+
 
 <br><br><br>
 
