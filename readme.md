@@ -109,11 +109,21 @@
 * [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)
 
 
+
+
+
+
+
+<br><br><br>
+----
 <br><br><br>
 
-----
 
-<br>
+
+
+
+
+
 ##### 原视频&字幕下载
 * [十分钟生物学-原视频&字幕文件]
 * [十分钟生物学-还没翻译完的视频]
@@ -142,10 +152,20 @@
 * [http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)  
 这个地方只能下载自动字幕.
 
+
+
+
+
+
 <br>
 
 
 [十分钟生物学-原视频&字幕文件]: http://pan.baidu.com/share/link?shareid=410254&uk=3760931755#dir/path=%2F(%E5%B7%B2%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6 "翻译完成"
 [十分钟生物学-还没翻译完的视频]: http://pan.baidu.com/share/link?shareid=410255&uk=3760931755#dir/path=%2F(%E6%9C%AA%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6>  "还没完"
+
+
+
+
+
 
 
