@@ -1,14 +1,12 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
 
-<br>
-##### :D
-[如何成为你想成为的人? --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 
 
 <br>
 ##### 十分钟美国历史
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)
+
 
 
 
@@ -23,7 +21,7 @@
 [7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
-[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zva1lpFHP)  
+[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)  
 [15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  
 [16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  
 [17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  
@@ -31,6 +29,9 @@
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy) 
+[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7) 
+
+
 
 
 <br>
@@ -40,8 +41,12 @@
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
 
 
+
+
 <br>
 ##### 太空
+* [Space Oddity --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
+* [我们皆是探索者 -- We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
 * [游览国际空间站- 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
 * [(TED-ed动画) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
@@ -56,16 +61,24 @@
 * [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
-* [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)
+* [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)  
+* [如何成为你想成为的人? --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
+
+
+
+
 
 <br>
 ##### 其他
+* [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
 * [(MinuteEarth) 冷冻食物的故事](http://www.weibo.com/2004104451/zvXm3oUTu)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
 * [斯潘格勒实验秀 -- 烧钱 -- (第1季第11集)](http://www.weibo.com/2004104451/zwEEABkXt)
+
+
 
 
 
@@ -99,8 +112,10 @@
 
 
 
+
 <br>
 #### 非翻译视频
+* [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
@@ -130,10 +145,14 @@
 
 
 
+
 <br>
 ##### 翻译字幕用到的工具有:
 1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 它不负责压制工作, 也就是把字幕内嵌到视频里去.  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具.  
+
+
+
 
 <br>
 ##### Youtube的视频怎么下载?
@@ -142,6 +161,8 @@
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
 2. 然后再安装 [这个脚本](http://userscripts.org/scripts/show/62634)  
 3. 现在你看Youtube视频的时候下方就会有下载按钮了.
+
+
 
 
 <br>
