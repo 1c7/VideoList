@@ -28,8 +28,8 @@
 [19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  
-[27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy) 
-[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7) 
+[27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  
+[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  
 
 
 
@@ -45,9 +45,9 @@
 
 <br>
 ##### 太空
-* [Space Oddity --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
-* [我们皆是探索者 -- We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
-* [游览国际空间站- 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
+* [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
+* [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
+* [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
 * [(TED-ed动画) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
 * [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
@@ -62,7 +62,7 @@
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
 * [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)  
-* [如何成为你想成为的人? --宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
+* [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 
 
 
@@ -76,7 +76,7 @@
 * [(MinuteEarth) 冷冻食物的故事](http://www.weibo.com/2004104451/zvXm3oUTu)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
-* [斯潘格勒实验秀 -- 烧钱 -- (第1季第11集)](http://www.weibo.com/2004104451/zwEEABkXt)
+* [斯潘格勒实验秀(第1季第11集) -- 烧钱](http://www.weibo.com/2004104451/zwEEABkXt)
 
 
 
