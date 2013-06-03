@@ -28,7 +28,9 @@
 [19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  
+[26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  
+[28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  
 
 
@@ -45,6 +47,7 @@
 
 <br>
 ##### 太空
+* [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
 * [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
 * [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
 * [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
@@ -69,7 +72,7 @@
 
 
 <br>
-##### 其他
+##### 短片
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
@@ -114,7 +117,8 @@
 
 
 <br>
-#### 非翻译视频
+#### 其他
+* [2013-5-31, CrashCourse新花絮](http://www.weibo.com/2004104451/zze3KAn3N)
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
@@ -122,8 +126,8 @@
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
 * [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)
-
-
+* [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
+* [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 
 
 
@@ -170,8 +174,8 @@
 * [http://www.yousub.net/](http://www.yousub.net/)  
 这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
 
-* [http://www.serpsite.com/youtube-subtitles-download-tool/](http://www.serpsite.com/youtube-subtitles-download-tool/)  
-这个地方只能下载自动字幕.
+* [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)  
+这是一个Tempermonkey脚本, 可以下载自动字幕.  
 
 
 
