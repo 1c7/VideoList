@@ -73,6 +73,8 @@
 
 <br>
 ##### 短片
+* [什么是DNA? - What is DNA? - (StatedClearly)](http://weibo.com/2004104451/zA0uWFcLb)
+* [什么是基因? - What is a gene? - (StatedClearly)](http://weibo.com/2004104451/zzZ25quGq)
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
