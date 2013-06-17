@@ -21,6 +21,9 @@
 [7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
+[10. DNA的结构与复制](http://www.weibo.com/2004104451/zzUwMpyaz)
+[12. 有丝分裂 | Mitosis- Splitting Up is Complicated ](http://v.youku.com/v_show/id_XNTY4NTg1OTE2.html)
+[13. 减数分裂 | Meiosis - Where the Sex Starts](http://www.weibo.com/2004104451/zBPMRzqPd)
 [14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)  
 [15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  
 [16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  
@@ -47,6 +50,7 @@
 
 <br>
 ##### 太空
+* [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNTcwMzUwMDk2.html)
 * [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
 * [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
 * [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
@@ -57,7 +61,7 @@
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
 * [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
-* [(加拿大航天局) 在太空里怎么刷牙? ](http://www.weibo.com/2004104451/zsgJFrqJT)
+
 * [(加拿大航天局) 在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
 * [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
 * [(加拿大航天局) 在国际空间站上想吐怎么办?](http://www.weibo.com/2004104451/zwe6U8iJ3)
@@ -89,6 +93,7 @@
 
 <br>
 ##### 搬运系列(字幕来源网络,非本人翻译)
+* [TED-ed 深海生物如何繁衍 | How life begins in the deep ocean](http://v.youku.com/v_show/id_XNTcwMzMwMDMy.html) 
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
 * [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
 * [什么是放射性?](http://www.weibo.com/2004104451/zszHeAPIJ)
@@ -110,34 +115,40 @@
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 62 - 鸟的翅膀是怎么工作的?](http://weibo.com/2004104451/zvsIqb4PE)
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
-* [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性](http://www.weibo.com/2004104451/zpfZemY4c)
+* [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性](http://www.weibo.com/2004104451/zBIgRyafa)
 * [Smarter Every Day 87 - 高速录像解析蝙蝠的飞行原理](http://weibo.com/2004104451/zvslLpLsZ)
+
 * [Smarter Every Day 45 - 直升机物理学1 - 介绍](http://www.weibo.com/2004104451/ztbsK77zr)
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
-
+* [Smarter Every Day 92 - 怎么让蚂蚁扛着纸片 | How to get Ants to carry a sign](http://www.weibo.com/2004104451/zBx2QcqAb)
+* [Smarter Every Day 94 - 奇妙的茧 | A MIND BLOWING Cocoon ](http://www.weibo.com/2004104451/zBx7b5ARp)
 
 
 
 <br>
 #### 其他
-* [2013-5-31, CrashCourse新花絮](http://www.weibo.com/2004104451/zze3KAn3N)
+* [2013,05,31 - CrashCourse新花絮](http://www.weibo.com/2004104451/zze3KAn3N)
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
-* [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)
+* [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)  
+
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
-* [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)
+* [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)  
+
 * [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
+* [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
+* [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
+* [[英文字幕] Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
 
 
+<br>
 
-
-
-<br><br><br>
 ----
-<br><br><br>
+
+<br>
 
 
 
@@ -154,7 +165,7 @@
 
 <br>
 ##### 翻译字幕用到的工具有:
-1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 它不负责压制工作, 也就是把字幕内嵌到视频里去.  
+1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 它不负责压制工作, 它不能把字幕内嵌到视频里去.  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具.  
 
 
@@ -189,10 +200,4 @@
 
 [十分钟生物学-原视频&字幕文件]: http://pan.baidu.com/share/link?shareid=410254&uk=3760931755#dir/path=%2F(%E5%B7%B2%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6 "翻译完成"
 [十分钟生物学-还没翻译完的视频]: http://pan.baidu.com/share/link?shareid=410255&uk=3760931755#dir/path=%2F(%E6%9C%AA%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6>  "还没完"
-
-
-
-
-
-
 
