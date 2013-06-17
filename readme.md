@@ -5,6 +5,7 @@
 
 <br>
 ##### 十分钟美国历史
+
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)
 
 
@@ -12,29 +13,30 @@
 
 <br>
 ##### 十分钟生物学
-[1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  
-[2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  
-[3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  
-[4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  
-[5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  
-[6. 植物细胞    | Plant Cells](http://www.weibo.com/2004104451/zrYnklgv6)  
-[7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  
-[8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  
-[9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  
-[10. DNA的结构与复制](http://www.weibo.com/2004104451/zzUwMpyaz)
-[12. 有丝分裂 | Mitosis- Splitting Up is Complicated ](http://v.youku.com/v_show/id_XNTY4NTg1OTE2.html)
-[13. 减数分裂 | Meiosis - Where the Sex Starts](http://www.weibo.com/2004104451/zBPMRzqPd)
-[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)  
-[15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  
-[16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  
-[17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  
-[19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  
-[20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  
-[21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  
-[26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  
-[27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  
-[28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  
-[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  
+
+[1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
+[2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
+[3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
+[4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
+[5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  <br>
+[6. 植物细胞    | Plant Cells](http://www.weibo.com/2004104451/zrYnklgv6)  <br>
+[7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  <br>
+[8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  <br>
+[9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  <br>
+[10. DNA的结构与复制](http://www.weibo.com/2004104451/zzUwMpyaz)  <br>
+[12. 有丝分裂 | Mitosis- Splitting Up is Complicated ](http://v.youku.com/v_show/id_XNTY4NTg1OTE2.html)  <br>
+[13. 减数分裂 | Meiosis - Where the Sex Starts](http://www.weibo.com/2004104451/zBPMRzqPd)  <br>
+[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)   <br>
+[15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  <br>
+[16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
+[17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
+[19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  <br>
+[20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  <br>
+[21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
+[26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
+[27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
+[28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
+[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
 
@@ -50,6 +52,7 @@
 
 <br>
 ##### 太空
+
 * [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNTcwMzUwMDk2.html)
 * [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
 * [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
@@ -61,7 +64,6 @@
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
 * [(加拿大航天局) 在太空里怎么剪头发?](http://www.weibo.com/2004104451/zsgMCl6kp)
 * [(加拿大航天局) 在太空里怎么睡觉? ](http://www.weibo.com/2004104451/zsgJT3dod)
-
 * [(加拿大航天局) 在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
 * [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
 * [(加拿大航天局) 在国际空间站上想吐怎么办?](http://www.weibo.com/2004104451/zwe6U8iJ3)
@@ -77,6 +79,7 @@
 
 <br>
 ##### 短片
+
 * [什么是DNA? - What is DNA? - (StatedClearly)](http://weibo.com/2004104451/zA0uWFcLb)
 * [什么是基因? - What is a gene? - (StatedClearly)](http://weibo.com/2004104451/zzZ25quGq)
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
@@ -93,6 +96,7 @@
 
 <br>
 ##### 搬运系列(字幕来源网络,非本人翻译)
+
 * [TED-ed 深海生物如何繁衍 | How life begins in the deep ocean](http://v.youku.com/v_show/id_XNTcwMzMwMDMy.html) 
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
 * [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
@@ -117,7 +121,6 @@
 * [Smarter Every Day 85 - 他们在太空里回答我了!](http://www.weibo.com/2004104451/zsitC22Hq)
 * [Smarter Every Day 86 - 13万帧每秒来拍摄鲁珀特之泪的神奇特性](http://www.weibo.com/2004104451/zBIgRyafa)
 * [Smarter Every Day 87 - 高速录像解析蝙蝠的飞行原理](http://weibo.com/2004104451/zvslLpLsZ)
-
 * [Smarter Every Day 45 - 直升机物理学1 - 介绍](http://www.weibo.com/2004104451/ztbsK77zr)
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
 * [Smarter Every Day 92 - 怎么让蚂蚁扛着纸片 | How to get Ants to carry a sign](http://www.weibo.com/2004104451/zBx2QcqAb)
@@ -127,16 +130,15 @@
 
 <br>
 #### 其他
+
 * [2013,05,31 - CrashCourse新花絮](http://www.weibo.com/2004104451/zze3KAn3N)
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)  
-
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
 * [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)  
-
 * [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 * [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
