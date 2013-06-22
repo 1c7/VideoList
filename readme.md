@@ -24,6 +24,7 @@
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  <br>
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  <br>
 [10. DNA的结构与复制](http://www.weibo.com/2004104451/zzUwMpyaz)  <br>
+[11. DNA, 夹心蛋糕, 世界上最长的单词](http://v.youku.com/v_show/id_XNTcyNDIzMzY4.html)  <br>
 [12. 有丝分裂 | Mitosis- Splitting Up is Complicated ](http://v.youku.com/v_show/id_XNTY4NTg1OTE2.html)  <br>
 [13. 减数分裂 | Meiosis - Where the Sex Starts](http://www.weibo.com/2004104451/zBPMRzqPd)  <br>
 [14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)   <br>
@@ -36,6 +37,8 @@
 [26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
+[29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
+[31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
