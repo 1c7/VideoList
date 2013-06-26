@@ -3,7 +3,10 @@
 
 <br>
 ##### 十分钟生物学
+这个系列翻的是Youtube CrashCourse频道的 Biology 系列   
+地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF
 
+<br>
 [1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
 [2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
@@ -37,6 +40,9 @@
 
 <br>
 ##### 十分钟生态学
+翻译的是Youtube CrashCourse频道的 Ecology 系列   
+地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
+
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)  
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi)  
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
@@ -46,6 +52,8 @@
 
 <br>
 ##### 太空
+这部分的来源比较杂.  
+但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
 
 * [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNTcwMzUwMDk2.html)
 * [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
@@ -90,8 +98,11 @@
 
 <br>
 ##### 搬运系列(字幕来源网络,非本人翻译)
+来源ted-ed:   
+http://ed.ted.com/   
+http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA  
 
-* [TED-ed 深海生物如何繁衍 | How life begins in the deep ocean](http://v.youku.com/v_show/id_XNTcwMzMwMDMy.html) 
+* [深海生物如何繁衍 | How life begins in the deep ocean](http://v.youku.com/v_show/id_XNTcwMzMwMDMy.html) 
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
 * [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
 * [什么是放射性?](http://www.weibo.com/2004104451/zszHeAPIJ)
@@ -109,6 +120,10 @@
 
 <br>
 ##### Smarter Every Day
+视频来自Youtube的Smarter Every Day频道.  
+地址是:   http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA
+
+
 * [Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 62 - 鸟的翅膀是怎么工作的?](http://weibo.com/2004104451/zvsIqb4PE)
@@ -148,10 +163,18 @@
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
 才翻了一集就发现新浪公开课也翻了..<br>
 所以这个系列我就不翻了.. <br>
-新浪公开课的链接在[这儿](http://open.sina.com.cn/course/id_817)<br>
+新浪公开课翻的视频链接在这儿: http://open.sina.com.cn/course/id_817<br>
 
 
+<br>
+##### 翻译计划:
+1. 把40集的 Biology(生物学) 和12集的 Echology(生态学) 翻完
+2. 翻译 Chemisty(化学)..
 
+ps: 目前crashcourse频道正在更新化学和美国历史..两个系列都更新了19集..还没更完..不知道会更到多少集  
+(打下这段话的时间是:2013/6/26)
+
+pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....)
 
 <br>
 
@@ -167,8 +190,7 @@
 
 ##### 原视频&字幕下载
 * [十分钟生物学-原视频&字幕文件]
-* [十分钟生物学-还没翻译完的视频]
-
+* [十分钟生物学-还没翻译完的视频]  
 
 
 
@@ -181,8 +203,7 @@
 
 
 <br>
-##### Youtube的视频怎么下载?
-我是用Chrome来上Youtube和下载视频的  
+##### Youtube的视频怎么下载? (前提:你得上的去..)  
 
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
 2. 然后再安装 [这个脚本](http://userscripts.org/scripts/show/62634)  
