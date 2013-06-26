@@ -1,16 +1,6 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
 
-
-
-<br>
-##### 十分钟美国历史
-
-[1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)
-
-
-
-
 <br>
 ##### 十分钟生物学
 
@@ -39,6 +29,7 @@
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
+[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
@@ -147,6 +138,19 @@
 * [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
 * [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
 * [[英文字幕] Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
+
+
+
+
+<br>
+##### 十分钟美国历史
+
+[1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
+才翻了一集就发现新浪公开课也翻了..<br>
+所以这个系列我就不翻了.. <br>
+新浪公开课的链接在[这儿](http://open.sina.com.cn/course/id_817)<br>
+
+
 
 
 <br>
