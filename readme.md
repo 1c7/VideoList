@@ -1,6 +1,7 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
 
+
 <br>
 ##### 十分钟生物学
 这个系列翻的是Youtube CrashCourse频道的 Biology 系列   
@@ -31,7 +32,7 @@
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)![new](new.ico)  <br>
+[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <img src="new.icon" style='margin-bottom: -12px;'>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
@@ -73,8 +74,8 @@
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
 * [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)  
 * [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
-* [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)![new](new.ico)
-* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)![new](new.ico)
+* [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)  <img src="new.icon" style='margin-bottom: -12px;'>
+* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)  <img src="new.icon" style='margin-bottom: -12px;'>  
 
 
 
@@ -134,7 +135,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
 * [Smarter Every Day 92 - 怎么让蚂蚁扛着纸片 | How to get Ants to carry a sign](http://www.weibo.com/2004104451/zBx2QcqAb)
 * [Smarter Every Day 94 - 奇妙的茧 | A MIND BLOWING Cocoon ](http://www.weibo.com/2004104451/zBx7b5ARp)
-* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html)![new](new.ico)  
+* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html)  <img src="new.icon" style='margin-bottom: -12px;'>  
 
 
 
