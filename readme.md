@@ -33,7 +33,7 @@
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  
+[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html) &nbsp; <img src="new.ico">  
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
@@ -75,8 +75,8 @@
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
 * [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)  
 * [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
-* [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)  
-* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)
+* [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html) &nbsp; <img src="new.ico">    
+* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html) &nbsp; <img src="new.ico">  
 
 
 
@@ -136,7 +136,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
 * [Smarter Every Day 92 - 怎么让蚂蚁扛着纸片 | How to get Ants to carry a sign](http://www.weibo.com/2004104451/zBx2QcqAb)
 * [Smarter Every Day 94 - 奇妙的茧 | A MIND BLOWING Cocoon ](http://www.weibo.com/2004104451/zBx7b5ARp)
-* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html)
+* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html) &nbsp; <img src="new.ico">   
 
 
 
@@ -224,23 +224,6 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 * [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)  
 这是一个Tempermonkey脚本, 可以下载自动字幕.  
 
-
-
-* image test <span><img src="new.ico" /></span>
-
-<br>
-<br>
-
-![i](new.ico)
-
-<br>
-
-<img src="new.ico" style="margin-bottom: -12px !important;">
-
-<br>
-
-
-<!-- style="margin-bottom: -12px !important;" -->
 
 
 
