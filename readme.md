@@ -228,6 +228,22 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 * image test[<img src="new.ico" style="margin-bottom: -12px">](http://google.com.au/)   
 
+<br>
+
+![i](new.ico)
+
+<br>
+
+<img src="" style="margin-bottom: -12px">
+
+
+
+
+
+
+
+
+
 
 <br>
 
