@@ -31,7 +31,7 @@
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html) &nbsp; <img src="new.ico">  
+[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 
 
@@ -75,7 +75,7 @@
 * [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 * [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html) &nbsp; <img src="new.ico">    
 * [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html) &nbsp; <img src="new.ico">  
-
+* [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)&nbsp; <img src="new.ico">    
 
 
 
@@ -91,7 +91,7 @@
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
 * [斯潘格勒实验秀(第1季第11集) -- 烧钱](http://www.weibo.com/2004104451/zwEEABkXt)
-
+* [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)&nbsp; <img src="new.ico">    
 
 
 
@@ -234,3 +234,6 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 [十分钟生物学-原视频&字幕文件]: http://pan.baidu.com/share/link?shareid=410254&uk=3760931755#dir/path=%2F(%E5%B7%B2%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6 "翻译完成"
 [十分钟生物学-还没翻译完的视频]: http://pan.baidu.com/share/link?shareid=410255&uk=3760931755#dir/path=%2F(%E6%9C%AA%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6>  "还没完"
 
+
+<br>
+<br>
