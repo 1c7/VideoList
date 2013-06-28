@@ -1,6 +1,9 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的翻译作品目录.  
 
-<img src="new.ico" alt="Drawing" style="width: 100px;"/>
+
+<div style="width: 100px;" markdown="1">
+    ![new](new.ico)
+</div>
 
 <br>
 ##### 十分钟生物学
