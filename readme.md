@@ -226,7 +226,7 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 
-* image test <div style="margin-bottom: -12px !important;"><img src="new.ico" /></div>
+* image test <span><img src="new.ico" /></span>
 
 <br>
 <br>
@@ -240,7 +240,7 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 <br>
 
 
-
+<!-- style="margin-bottom: -12px !important;" -->
 
 
 
