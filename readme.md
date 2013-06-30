@@ -177,11 +177,14 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 #### 翻译计划:
-1. 翻完40集的 Biology(生物学) 和12集的 Echology(生态学) 
-2. 翻译 Chemisty(化学)..
+1. 翻40集的 Biology(生物学) 
+2. 精校
+2. 翻12集的 Echology(生态学) 
+3. 精校
+2. 翻 Chemisty(化学)..这个系列目前还在更新, 具体会有多少集不知道..
 
-ps: 目前crashcourse频道正在更新化学和美国历史.. <br>
-pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....) <br>
+
+ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....) <br>
 
 
 
