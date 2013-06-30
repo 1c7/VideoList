@@ -154,7 +154,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 * [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
 * [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
-* [[英文字幕] Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
+* [(英文字幕) Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
 
 
 
@@ -165,7 +165,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
 才翻了一集就发现新浪公开课也翻了..<br>
 所以这个系列我就不翻了.. <br>
-新浪公开课翻的视频链接在这儿: http://open.sina.com.cn/course/id_817<br>
+新浪公开课翻的视频链接: http://open.sina.com.cn/course/id_817<br>
 
 
 <br>
@@ -224,25 +224,20 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 <br>
 ##### Youtube视频字幕怎么下载?
 
-* [Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)
+* [Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)  <br>
 这个Tampermonkey脚本可以下载__做好的__字幕, 安装后每个视频下面都会有下载按钮. 很方便, __推荐__
 
-* [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)  
+* [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)   <br>
 这个Tempermonkey脚本可以下载__自动字幕__, 安装后每个视频下面也会有下载按钮.  也很方便, __推荐__
 
-* [http://www.yousub.net/](http://www.yousub.net/)  
+* [http://www.yousub.net/](http://www.yousub.net/)   <br>
 这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
 
 
-
-
-
-<br>
 
 
 [十分钟生物学-原视频&字幕文件]: http://pan.baidu.com/share/link?shareid=410254&uk=3760931755#dir/path=%2F(%E5%B7%B2%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6 "翻译完成"
 [十分钟生物学-还没翻译完的视频]: http://pan.baidu.com/share/link?shareid=410255&uk=3760931755#dir/path=%2F(%E6%9C%AA%E7%BF%BB%E8%AF%91)%E5%8D%81%E5%88%86%E9%92%9F%E7%94%9F%E7%89%A9%E5%AD%A6>  "还没完"
 
 
-<br>
-<br>
+
