@@ -225,13 +225,13 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 ##### Youtube视频字幕怎么下载?
 
 * [Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)  <br>
-这个Tampermonkey脚本可以下载__做好的__字幕, 安装后每个视频下面都会有下载按钮. 很方便, __推荐__
+这个Tampermonkey脚本可以下载[做好的字幕], 安装后每个视频下都会有下载按钮.  __推荐__
 
 * [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)   <br>
-这个Tempermonkey脚本可以下载__自动字幕__, 安装后每个视频下面也会有下载按钮.  也很方便, __推荐__
+这个Tempermonkey脚本可以下载[自动字幕], 安装后每个视频下也会有下载按钮.  __推荐__
 
 * [http://www.yousub.net/](http://www.yousub.net/)   <br>
-这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
+这个网站可以下载[做好的字幕], 不能下载[自动字幕]
 
 
 
