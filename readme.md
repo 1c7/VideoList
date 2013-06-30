@@ -169,14 +169,21 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-##### 翻译计划:
-1. 把40集的 Biology(生物学) 和12集的 Echology(生态学) 翻完
+
+----
+
+<br>
+
+
+
+#### 翻译计划:
+1. 翻完40集的 Biology(生物学) 和12集的 Echology(生态学) 
 2. 翻译 Chemisty(化学)..
 
-ps: 目前crashcourse频道正在更新化学和美国历史..两个系列都更新了19集..还没更完..不知道会更到多少集  
-(打下这段话的时间是:2013/6/26)
+ps: 目前crashcourse频道正在更新化学和美国历史.. <br>
+pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....) <br>
 
-pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....)
+
 
 <br>
 
@@ -198,31 +205,33 @@ pps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 <br>
 ##### 翻译字幕用到的工具有:
-1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 它不负责压制工作, 它不能把字幕内嵌到视频里去.  
-2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具.  
+1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 不负责压制工作  
+2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具  
 
 
 
 
 <br>
-##### Youtube的视频怎么下载? (前提:你得上的去..)  
+##### Youtube视频怎么下载? 
 
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
 2. 然后再安装 [这个脚本](http://userscripts.org/scripts/show/62634)  
-3. 现在你看Youtube视频的时候下方就会有下载按钮了.
+3. 现在每个视频下方就会有下载按钮给你下载
 
 
 
 
 <br>
-##### 视频字幕怎么下载?
-* [http://www.yousub.net/](http://www.yousub.net/)  
-这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
+##### Youtube视频字幕怎么下载?
+
+* [Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)
+这个Tampermonkey脚本可以下载__做好的__字幕, 安装后每个视频下面都会有下载按钮. 很方便, __推荐__
 
 * [Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)  
-这是一个Tempermonkey脚本, 可以下载自动字幕.  
+这个Tempermonkey脚本可以下载__自动字幕__, 安装后每个视频下面也会有下载按钮.  也很方便, __推荐__
 
-
+* [http://www.yousub.net/](http://www.yousub.net/)  
+这个网站可以下载youtube视频字幕, 但是不能下载自动字幕
 
 
 
