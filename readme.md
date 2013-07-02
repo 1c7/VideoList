@@ -30,6 +30,7 @@
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
 [28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
+[30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
@@ -56,10 +57,7 @@
 
 * [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNTcwMzUwMDk2.html)
 * [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
-* [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
-* [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
-* [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)
-* [(TED-ed动画) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
+* [(TED-ed) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
 * [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
 * [(加拿大航天局) 国际空间站上的甜点](http://www.weibo.com/2004104451/zuAFs2pPe)
@@ -69,13 +67,39 @@
 * [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
 * [(加拿大航天局) 在国际空间站上想吐怎么办?](http://www.weibo.com/2004104451/zwe6U8iJ3)
 * [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)
+
+ 
+* [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
+* [宇航员离心机训练 - 宇航员克里斯·哈德菲尔德](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)  
+* [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)     
+* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)
+
+
+
+
+<br>
+##### 太空音乐 & 其他
+* [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)  
+* [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
-* [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zwENNvToz)  
-* [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
-* [Chris Hadfield - 宇航员离心机训练](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html) &nbsp; <img src="new.ico">    
-* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html) &nbsp; <img src="new.ico">  
-* [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)&nbsp; <img src="new.ico">    
+* [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
+* [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
+* [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
+* [(英文字幕) Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
+
+
+
+
+
+<br>
+##### 斯潘格勒实验秀 - The Spangler Effect
+来源: http://www.youtube.com/channel/UC6sWKVFVfuyTk0FTPY4c62Q
+
+* [斯潘格勒实验秀(第1季第11集) -- 烧钱 [12:43]](http://www.weibo.com/2004104451/zwEEABkXt)  
+* [斯潘格勒实验秀(第2季第12集) -- 自制冰淇淋  [17:17]](http://v.youku.com/v_show/id_XNTc2OTA5ODQ4.html)  
+
+
 
 
 
@@ -90,8 +114,7 @@
 * [(MinuteEarth) 冷冻食物的故事](http://www.weibo.com/2004104451/zvXm3oUTu)
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
-* [斯潘格勒实验秀(第1季第11集) -- 烧钱](http://www.weibo.com/2004104451/zwEEABkXt)
-* [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)&nbsp; <img src="new.ico">    
+* [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)  
 
 
 
@@ -134,7 +157,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [Smarter Every Day 46 - 直升机物理学2 -- 如何控制直升机?](http://weibo.com/2004104451/zvtAHwktt)
 * [Smarter Every Day 92 - 怎么让蚂蚁扛着纸片 | How to get Ants to carry a sign](http://www.weibo.com/2004104451/zBx2QcqAb)
 * [Smarter Every Day 94 - 奇妙的茧 | A MIND BLOWING Cocoon ](http://www.weibo.com/2004104451/zBx7b5ARp)
-* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html) &nbsp; <img src="new.ico">   
+* [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html)
 
 
 
@@ -142,20 +165,17 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 <br>
 #### 其他
 
-* [2013,05,31 - CrashCourse新花絮](http://www.weibo.com/2004104451/zze3KAn3N)
-* [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
-* [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
-* [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)  
+* [CrashCourse新花絮 - 2013/05/31](http://www.weibo.com/2004104451/zze3KAn3N)
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
-* [十分钟生物学&生态学花絮](http://www.weibo.com/2004104451/zvU9HCjYd)  
+* [十分钟生物学&生态学花絮集锦](http://www.weibo.com/2004104451/zvU9HCjYd)  
+* [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
+* [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
+* [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)  
 * [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
-* [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
-* [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
-* [(英文字幕) Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
-
+* [菲利普 L 怀特 动物博物馆 - BrainScoop](http://v.youku.com/v_show/id_XNTc3NjYxNTEy.html)
 
 
 
@@ -194,9 +214,8 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 <br>
 
-
-
-
+有问题或是意见可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&))给我留言..
+当然 如果你有Github帐号也可以直接开个issue
 
 
 
