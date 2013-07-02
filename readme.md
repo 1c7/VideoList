@@ -2,7 +2,7 @@
 
 
 <br>
-##### 十分钟生物学
+#### 十分钟生物学
 这个系列翻的是Youtube CrashCourse频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
@@ -39,7 +39,7 @@
 
 
 <br>
-##### 十分钟生态学
+#### 十分钟生态学
 翻译的是Youtube CrashCourse频道的 Ecology 系列   
 地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 
@@ -51,7 +51,7 @@
 
 
 <br>
-##### 太空
+#### 太空
 这部分的来源比较杂.  
 但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
 
@@ -66,9 +66,7 @@
 * [(加拿大航天局) 在太空里怎么锻炼?](http://www.weibo.com/2004104451/zsqZamf4N)  
 * [(加拿大航天局) 国际空间站如何将水回收利用?](http://www.weibo.com/2004104451/zu6jZw37d)
 * [(加拿大航天局) 在国际空间站上想吐怎么办?](http://www.weibo.com/2004104451/zwe6U8iJ3)
-* [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)
-
- 
+* [(加拿大航天局) 宇航员哼着歌玩空间站上的过期防烟面具 -- Quick-Don Mask- Work can be Fun](http://www.weibo.com/2004104451/zwe35pyC2)  
 * [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 * [宇航员离心机训练 - 宇航员克里斯·哈德菲尔德](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)  
 * [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)     
@@ -78,7 +76,7 @@
 
 
 <br>
-##### 太空音乐 & 其他
+#### 太空音乐 & 其他
 * [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)  
 * [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
@@ -93,7 +91,7 @@
 
 
 <br>
-##### 斯潘格勒实验秀 - The Spangler Effect
+#### 斯潘格勒实验秀 - The Spangler Effect
 来源: http://www.youtube.com/channel/UC6sWKVFVfuyTk0FTPY4c62Q
 
 * [斯潘格勒实验秀(第1季第11集) -- 烧钱 [12:43]](http://www.weibo.com/2004104451/zwEEABkXt)  
@@ -104,7 +102,7 @@
 
 
 <br>
-##### 短片
+#### 短片
 
 * [什么是DNA? - What is DNA? - (StatedClearly)](http://weibo.com/2004104451/zA0uWFcLb)
 * [什么是基因? - What is a gene? - (StatedClearly)](http://weibo.com/2004104451/zzZ25quGq)
@@ -120,7 +118,7 @@
 
 
 <br>
-##### 搬运系列(字幕来源网络,非本人翻译)
+#### 搬运系列(字幕来源网络,非本人翻译)
 来源ted-ed:   
 http://ed.ted.com/   
 http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA  
@@ -142,7 +140,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-##### Smarter Every Day
+#### Smarter Every Day
 视频来自Youtube的Smarter Every Day频道.  
 地址是:   http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA
 
@@ -180,7 +178,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-##### 十分钟美国历史
+#### 十分钟美国历史
 
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
 才翻了一集就发现新浪公开课也翻了..<br>
@@ -219,14 +217,14 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 
-##### 原视频&字幕下载
+#### 原视频&字幕下载
 * [十分钟生物学-原视频&字幕文件]
 * [十分钟生物学-还没翻译完的视频]  
 
 
 
 <br>
-##### 翻译字幕用到的工具有:
+#### 翻译字幕用到的工具有:
 1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 不负责压制工作  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具  
 
@@ -234,7 +232,7 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 <br>
-##### Youtube视频怎么下载? 
+#### Youtube视频怎么下载? 
 
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
 2. 然后再安装 [这个脚本](http://userscripts.org/scripts/show/62634)  
@@ -244,7 +242,7 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 <br>
-##### Youtube视频字幕怎么下载?
+#### Youtube视频字幕怎么下载?
 
 * [Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)  <br>
 这个Tampermonkey脚本可以下载[做好的字幕], 安装后每个视频下都会有下载按钮.  __推荐__
