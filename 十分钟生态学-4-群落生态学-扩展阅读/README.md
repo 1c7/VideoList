@@ -1,4 +1,3 @@
-
 ## 扩展阅读
 
 ![1](images/1.png)
@@ -29,12 +28,7 @@
 
 
 <br>
-<br>
 
----
-
-<br>
-<br>
 
 ## 资料来源: 
 [《生物学》(第六版)](http://book.douban.com/subject/1328826/) <br>
