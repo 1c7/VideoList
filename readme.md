@@ -26,7 +26,7 @@
 [19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  <br>
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  <br>
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
-[22. 简单动物-海绵, 水母&章鱼 | Simple Animals-Sponges, Jellies & Octopuses](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html)   <br>  
+[22. 简单动物-海绵, 水母&章鱼 | Simple Animals-Sponges, Jellies & Octopuses](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html) <br>  
 [25. 动物行为 | Animal Behavior](http://v.youku.com/v_show/id_XNTgwNzI3MTg0.html)<br>
 [26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
@@ -45,11 +45,11 @@
 翻译的是Youtube CrashCourse频道的 Ecology 系列   
 地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 
-[1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM)  
-[2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi)  
-[3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k)  
-[4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html)
-[5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html)
+[1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM) <br>
+[2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi) <br>
+[3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k) <br>
+[4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html) <br>
+[5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
 
 
 <br>
