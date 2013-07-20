@@ -1,5 +1,6 @@
 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频目录.  <br />
-目录里的视频有翻译的 有搬运的 有推荐的 <br />
+视频有翻译的 有搬运的 有推荐的 <br />
+推荐的视频会特别注明出处 <br />
 
 
 <br>
@@ -147,7 +148,8 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 视频来自Youtube的Smarter Every Day频道.  
 地址是:   http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA
 
-* [Smarter Every Day 53 - 会旋转的粘性液体](http://v.youku.com/v_show/id_XNDU5NTQwNDc2.html?f=18563154) <br/> (此视频是煎蛋小学堂的, 非本人翻译, 纯粹在这里推荐一下而已..) <br/>
+* [Smarter Every Day 53 - 会旋转的粘性液体](http://v.youku.com/v_show/id_XNDU5NTQwNDc2.html?f=18563154) <br/> 
+* ( 上面这个视频是[煎蛋小学堂](http://www.weibo.com/jandanxxt?topnav=1&wvr=5&topsug=1)的, 翻译者是[JVINIC](http://www.weibo.com/jvinic?topnav=1&wvr=5&topsug=1), 在这里推荐一下. ) <br/>
 * [Smarter Every Day 27 - 蜂鸟空气动力学](http://www.weibo.com/2004104451/zvl5tCWqO)
 * [Smarter Every Day 42 - 为什么你出生的时候不会被淹死 - Why You Didn't Die at Birth](http://www.weibo.com/2004104451/zshZ9wNBF)
 * [Smarter Every Day 62 - 鸟的翅膀是怎么工作的?](http://weibo.com/2004104451/zvsIqb4PE)
