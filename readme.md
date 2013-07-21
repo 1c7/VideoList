@@ -240,11 +240,17 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 
+
 <br>
 #### 翻译字幕用到的工具有:
 1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 不负责压制工作  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具  
 
+
+
+<br>
+#### 怎么上Youtube? 
+关键词: goagent <br>
 
 
 
