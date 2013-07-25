@@ -3,6 +3,19 @@
 推荐的视频会特别注明出处 <br />
 
 
+
+
+
+<br>
+#### Stated Clearly(Youtube的一个频道)
+原地址: http://www.youtube.com/user/sciencestatedclearly/videos
+* [什么是DNA? - What is DNA?](http://weibo.com/2004104451/zA0uWFcLb)
+* [什么是基因? - What is a gene?](http://weibo.com/2004104451/zzZ25quGq)
+
+
+
+
+
 <br>
 #### 十分钟生物学
 这个系列翻的是Youtube CrashCourse频道的 Biology 系列   
@@ -55,6 +68,10 @@
 [5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
 
 
+
+
+
+
 <br>
 #### 太空
 这部分的来源比较杂.  
@@ -95,6 +112,9 @@
 
 
 
+
+
+
 <br>
 #### 斯潘格勒实验秀 - The Spangler Effect
 来源: http://www.youtube.com/channel/UC6sWKVFVfuyTk0FTPY4c62Q
@@ -106,11 +126,11 @@
 
 
 
+
+
 <br>
 #### 短片
 
-* [什么是DNA? - What is DNA? - (StatedClearly)](http://weibo.com/2004104451/zA0uWFcLb)
-* [什么是基因? - What is a gene? - (StatedClearly)](http://weibo.com/2004104451/zzZ25quGq)
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
@@ -118,6 +138,11 @@
 * [为什么要使用卫星来测量降雨量? ](http://www.weibo.com/2004104451/zsh4UavQe)
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
 * [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)  
+
+
+
+
+
 
 
 
@@ -144,6 +169,11 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 
+
+
+
+
+
 <br>
 #### Smarter Every Day
 视频来自Youtube的Smarter Every Day频道.  
@@ -166,6 +196,10 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 
+
+
+
+
 <br>
 #### 其他
 
@@ -180,6 +214,11 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 * [菲利普 L 怀特 动物博物馆 - BrainScoop](http://v.youku.com/v_show/id_XNTc3NjYxNTEy.html)
+
+
+
+
+
 
 
 
@@ -242,10 +281,12 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 
+
 <br>
 #### 翻译字幕用到的工具有:
 1. [Aegisub](http://www.aegisub.org/)  只能用于翻译字幕, 不负责压制工作  
 2. [小丸工具箱](http://maruko.appinn.me/) 很好用的压制工具  
+
 
 
 
@@ -255,12 +296,15 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 
 
 
+
 <br>
 #### Youtube视频怎么下载? 
 
 1. 首先你需要安装Chrome的插件: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   
 2. 然后再安装 [这个脚本](http://userscripts.org/scripts/show/62634)  
 3. 现在每个视频下方就会有下载按钮给你下载
+
+
 
 
 
