@@ -10,8 +10,8 @@
 #### Stated Clearly(Youtube的一个频道)
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
 ![Stated Clearly Image](Markdown-Images/Stated-Clearly.png)  <br>
-* [什么是DNA? - What is DNA?](http://weibo.com/2004104451/zA0uWFcLb)
-* [什么是基因? - What is a gene?](http://weibo.com/2004104451/zzZ25quGq)
+* [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
+* [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
 
 
 
