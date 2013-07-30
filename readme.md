@@ -12,7 +12,7 @@
 ![Stated Clearly Image](Markdown-Images/Stated-Clearly.png)  <br>
 * [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
 * [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
-
+* [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
 
 
 
@@ -150,10 +150,15 @@
 
 <br>
 #### 搬运系列(字幕来源网络,非本人翻译)
-来源ted-ed:   
+来源TED-ed:   
 http://ed.ted.com/   
 http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA  
 
+* [鱼的自述: 我曾是浮游生物的秘密生活](http://video.sina.com.cn/v/b/110758524-2004104451.html)
+* [原子对撞机是怎么工作的 | How does an atom-smashing](http://video.sina.com.cn/v/b/110759144-2004104451.html)
+* [孟德尔的豆豆是怎么帮助我们理解遗传学的](http://video.sina.com.cn/v/b/110203875-2004104451.html)
+* [光是粒子还是波? | Is light a particle or a wave?](http://v.youku.com/v_show/id_XNTg2NTc1MDI0.html)
+* [为啥地球上会有风暴? | What on Earth is spin - Brian Jones](http://v.youku.com/v_show/id_XNTg3ODg3MjY4.html)
 * [深海生物如何繁衍 | How life begins in the deep ocean](http://v.youku.com/v_show/id_XNTcwMzMwMDMy.html) 
 * [颜色是什么?](http://www.weibo.com/2004104451/zt9dTdIVS) 
 * [我们如何看到顏色?](http://www.weibo.com/2004104451/zqKTZuLhl)
