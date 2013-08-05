@@ -92,6 +92,8 @@ http://www.yousub.net/   <br>
 
 
 
+
+<br>
 #### 5. 嗯, 3样我都安装好了, 接下来呢?
 1. 打开Aegisub  
 ![b](img/aegisub.png)  
@@ -122,6 +124,8 @@ http://www.yousub.net/   <br>
 点击【音频】 -> 【从视频中打开音频】  
 现在可以了.. 有声音了..  
 ![b](img/aegisub-sound2.png)   
+
+
 
 
 <br>
