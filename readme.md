@@ -22,8 +22,8 @@
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
-1. [为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
-1. [水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
+[1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
+[2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
 [5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  <br>
@@ -45,7 +45,7 @@
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
 [22. 简单动物-海绵, 水母&章鱼 ](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html) <br>
 [23. 复杂动物-环节动物&节肢动物](http://v.youku.com/v_show/id_XNTg1OTY5NDg4.html) <br>
-[24. (尚未翻译完成)](https://www.google.com.tw/)  <br>
+24. (尚未翻译完成) <br>
 [25. 动物行为 | Animal Behavior](http://v.youku.com/v_show/id_XNTgwNzI3MTg0.html) <br>
 [26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
@@ -53,11 +53,11 @@
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[32. (尚未翻译完成)](https://www.google.com.tw/) <br>
+32. (尚未翻译完成) <br>
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
-[36. (尚未翻译完成)](https://www.google.com.tw/)  <br>
+36. (尚未翻译完成) <br>
 [37. 维管植物获胜! | Vascular Plants Winning!](http://video.sina.com.cn/v/b/111507835-2004104451.html)  <br>
 [38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
 [39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
@@ -79,11 +79,9 @@
 
 
 <br>
-#### 十分钟化学 (Crash Course 官方目前正在更新这个系列, 目前有23集)
-翻译的是 Crash Course 频道的 Chemistry 系列    
+#### 十分钟化学 (Crash Course 官方目前正在更新这个系列, 目前有23集)  
 地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
-
-1. 暂无
+暂无
 
 
 
@@ -124,7 +122,7 @@
 * [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
 * [What Kind of World Do You Want | Youtube-ReelNASA](http://www.weibo.com/2004104451/zwecABl2K)
 * [Life on the International Space Station](http://www.weibo.com/2004104451/zwed4bZMD)
-* [NASA - 地球夜景 | NASA - Earth at Night](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
+* [NASA - 地球夜景](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
 * [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
 * [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
 * [(英文字幕) Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
@@ -228,8 +226,8 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 <br>
 #### 其他
-
-* [CrashCourse新花絮 - 2013/05/31](http://www.weibo.com/2004104451/zze3KAn3N)
+* [Crash Course 美国历史花絮 - 2013/08/02](http://video.sina.com.cn/v/b/111266570-2004104451.html)
+* [Crash Course 新花絮 - 2013/05/31](http://www.weibo.com/2004104451/zze3KAn3N)
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
