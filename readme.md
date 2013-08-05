@@ -13,13 +13,13 @@
 * [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
 * [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
 * [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
-
+* [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
 
 
 
 <br>
-#### 十分钟生物学
-这个系列翻的是Youtube CrashCourse频道的 Biology 系列   
+#### 十分钟生物学 (总共40集)
+翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
 [1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
@@ -39,11 +39,13 @@
 [15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  <br>
 [16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
 [17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
+[18. 种群遗传学 - 当达尔文碰到孟德尔](http://v.youku.com/v_show/id_XNTc5MTM5MjAw.html)
 [19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  <br>
 [20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  <br>
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
 [22. 简单动物-海绵, 水母&章鱼 ](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html) <br>
 [23. 复杂动物-环节动物&节肢动物](http://v.youku.com/v_show/id_XNTg1OTY5NDg4.html) <br>
+[24. (尚未翻译完成)](https://www.google.com.tw/)  <br>
 [25. 动物行为 | Animal Behavior](http://v.youku.com/v_show/id_XNTgwNzI3MTg0.html) <br>
 [26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
@@ -51,15 +53,20 @@
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
+[32. (尚未翻译完成)](https://www.google.com.tw/)
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
+[34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
-
-
+[36. (尚未翻译完成)](https://www.google.com.tw/)  <br>
+[37. 维管植物获胜! | Vascular Plants Winning!](http://video.sina.com.cn/v/b/111507835-2004104451.html)  <br>
+[38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
+[39. 39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
+[40. 生态学 | Ecology-Rules for Living on Earth](http://v.youku.com/v_show/id_XNTkyMDM2OTc2.html)  <br>
 
 
 <br>
-#### 十分钟生态学
-翻译的是Youtube CrashCourse频道的 Ecology 系列   
+#### 十分钟生态学 (总共12集)
+翻译的是 Crash Course 频道的 Ecology 系列   
 地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM) <br>
@@ -67,6 +74,19 @@
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k) <br>
 [4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html) <br>
 [5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
+
+
+
+
+<br>
+#### 十分钟化学 (Crash Course 官方目前正在更新这个系列, 目前有23集)
+翻译的是 Crash Course 频道的 Chemistry 系列    
+地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
+
+1. 暂无
+
+
+
 
 
 
@@ -273,16 +293,6 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 有问题或是意见可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&)给我留言..  
 当然 如果你有Github帐号也可以直接开个issue  
 
-
-
-
-
-
-
-<br>
-#### 原视频&字幕下载
-* [十分钟生物学-原视频&字幕文件]
-* [十分钟生物学-还没翻译完的视频]  
 
 
 
