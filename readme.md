@@ -22,8 +22,8 @@
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
-[1. 为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
-[2. 水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
+1. [为什么说碳是一个流浪汉 | That's Why Carbon Is A Tramp](http://www.weibo.com/2004104451/zr3pYEF5I)  <br>
+1. [水-最棒的液体  | Water-Liquid Awesome](http://www.weibo.com/2004104451/zr3qjnObb)  <br>
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
 [5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  <br>
