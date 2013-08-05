@@ -53,14 +53,14 @@
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[32. (尚未翻译完成)](https://www.google.com.tw/)
+[32. (尚未翻译完成)](https://www.google.com.tw/) <br>
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
 [36. (尚未翻译完成)](https://www.google.com.tw/)  <br>
 [37. 维管植物获胜! | Vascular Plants Winning!](http://video.sina.com.cn/v/b/111507835-2004104451.html)  <br>
 [38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
-[39. 39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
+[39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
 [40. 生态学 | Ecology-Rules for Living on Earth](http://v.youku.com/v_show/id_XNTkyMDM2OTc2.html)  <br>
 
 
