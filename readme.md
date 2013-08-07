@@ -18,7 +18,7 @@
 
 
 <br>
-#### 十分钟生物学 (总共40集)
+#### 十分钟生物学 (总共40集, 目前这个系列只有我一个人在跟进)
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
@@ -65,7 +65,7 @@
 
 
 <br>
-#### 十分钟生态学 (总共12集)
+#### 十分钟生态学 (总共12集, 目前这个系列只有我一个人在跟进)
 翻译的是 Crash Course 频道的 Ecology 系列   
 地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 
@@ -79,9 +79,9 @@
 
 
 <br>
-#### 十分钟化学 (Crash Course 官方目前正在更新这个系列, 目前有23集)  
+#### 十分钟化学 ( 目前 Crash Course 的 Hank Green 正在更新这个系列, 现在有25集, 由我和新浪微博的[@Ruki一n一](http://www.weibo.com/518485675)在跟进 )  
 地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
-暂无
+[21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 
 
@@ -247,12 +247,22 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-#### 十分钟美国历史
+#### 十分钟美国历史 ( 目前由 Crash Course 的 John Green 在更新这个系列, 目前视频有24集 )
 
 [1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
-才翻了一集就发现新浪公开课也翻了..<br>
-所以这个系列我就不翻了.. <br>
-新浪公开课翻的视频链接: http://open.sina.com.cn/course/id_817<br>
+才翻了一集就发现新浪公开课也翻了..所以这个系列我就不翻了.. <br>
+新浪公开课-十分钟美国历史的链接: http://open.sina.com.cn/course/id_817 <br>
+他们只翻了8集(截止至2013-08-07)
+
+
+
+
+<br>
+#### 十分钟文学 ( 共8集 已更新完 )
+##### 目前没发现有人在跟进这个系列...
+
+
+
 
 
 <br>
