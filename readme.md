@@ -57,7 +57,7 @@
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
-36. (尚未翻译完成) <br>
+[36. 非维管植物的繁殖 - The Sex Lives of Nonvascular Plants - Alternation of Generations - Crash Course Biology #36](http://v.youku.com/v_show/id_XNTkzMzYwMjY4.html)<br>
 [37. 维管植物获胜! | Vascular Plants Winning!](http://video.sina.com.cn/v/b/111507835-2004104451.html)  <br>
 [38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
 [39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
