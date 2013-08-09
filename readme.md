@@ -7,7 +7,7 @@
 
 
 <br>
-#### Stated Clearly(Youtube的一个频道)
+#### Stated Clearly
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
 ![Stated Clearly Image](readme-img/Stated-Clearly.png)  <br>
 * [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
@@ -18,7 +18,7 @@
 
 
 <br>
-#### 十分钟生物学 (总共40集, 目前这个系列只有我一个人在跟进)
+#### 十分钟生物学 (共40集)
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
@@ -65,7 +65,7 @@
 
 
 <br>
-#### 十分钟生态学 (总共12集, 目前这个系列只有我一个人在跟进)
+#### 十分钟生态学 (共12集)
 翻译的是 Crash Course 频道的 Ecology 系列   
 地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
 
@@ -79,13 +79,9 @@
 
 
 <br>
-#### 十分钟化学 ( 目前 Crash Course 的 Hank Green 正在更新这个系列, 现在有25集, 由我和新浪微博的[@Ruki一n一](http://www.weibo.com/518485675)在跟进 )  
+#### 十分钟化学 (正在更新 目前有24集)
 地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
-[21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
-
-
-
-
+[21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 
 
@@ -194,10 +190,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 
-
-
-
-
 <br>
 #### Smarter Every Day
 视频来自Youtube的Smarter Every Day频道.  
@@ -232,6 +224,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 
+
 <br>
 #### 其他
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
@@ -241,27 +234,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 * [菲利普 L 怀特 动物博物馆 - BrainScoop](http://v.youku.com/v_show/id_XNTc3NjYxNTEy.html)
 
-
-
-
-
-
-
-
-<br>
-#### 十分钟美国历史 ( 目前由 Crash Course 的 John Green 在更新这个系列, 目前视频有24集 )
-
-[1. 黑色传奇, 西班牙人与美国原住民 | The Black Legend, Native Americans, and Spaniards](http://www.weibo.com/2004104451/zvVFChlEF)  <br>
-才翻了一集就发现新浪公开课也翻了..所以这个系列我就不翻了.. <br>
-新浪公开课-十分钟美国历史的链接: http://open.sina.com.cn/course/id_817 <br>
-他们只翻了8集(截止至2013-08-07)
-
-
-
-
-<br>
-#### 十分钟文学 ( 共8集 已更新完 )
-##### 目前没发现有人在跟进这个系列...
 
 
 
@@ -298,4 +270,3 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&)给我留言, 或是发私信..  
 当然 如果你有Github帐号也可以直接开个issue  
 <br>
-
