@@ -4,12 +4,13 @@ https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
 
 ![](imgs/list1.png)  
 ![](imgs/list2.png)  
+![](imgs/list3.png)  
 #### 目前有化学, 美国历史, 文学, 生态学, 生物学, 世界历史  
 
 
 <br>
 #### 化学的进度(正在更新, 目前有23集)
-[@糖醋陈皮]和[@Ruki-n-]正在跟进.  
+[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)和[@Ruki-n-](http://www.weibo.com/518485675)正在跟进.  
 视频列表:  
 https://github.com/1c7/VideoList
 
@@ -37,7 +38,7 @@ https://github.com/1c7/VideoList
 
 <br>
 #### 世界历史的进度(共42集)
-新浪公开课已经把全部42集翻译完了.  
+新浪公开课已经把全部42集翻译完了  
 http://open.sina.com.cn/course/id_465
 
 
