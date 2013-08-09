@@ -53,7 +53,7 @@
 [29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
 [30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
 [31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-32. (尚未翻译完成) <br>
+[32. 免疫系统 - Your Immune System - Natural Born Killer - Crash Course Biology #32](http://v.youku.com/v_show/id_XNTkzNDI0Mjg0.html)<br>
 [33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
 [34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
 [35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
