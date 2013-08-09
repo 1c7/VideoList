@@ -1,11 +1,10 @@
 
-#### Crash Course 是 Youtube 的一个频道.   
-https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+#### Crash Course 是一个 Youtube 频道: https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
+
 
 ![](imgs/list1.png)  
 ![](imgs/list2.png)  
 ![](imgs/list3.png)  
-#### 目前有化学, 美国历史, 文学, 生态学, 生物学, 世界历史  
 
 
 
@@ -39,7 +38,7 @@ https://github.com/1c7/VideoList
 
 <br>
 #### 生物学的进度(共40集)
-已经翻译了39集, 没翻译的那集是第24集  
+已经翻译了39集  
 视频列表:  
 https://github.com/1c7/VideoList
 
