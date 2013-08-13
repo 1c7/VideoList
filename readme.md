@@ -74,7 +74,7 @@
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k) <br>
 [4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html) <br>
 [5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
-
+[6. 生态演替](http://v.youku.com/v_show/id_XNTk1MzQ4OTU2.html) <br>
 
 
 
