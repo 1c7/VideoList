@@ -18,7 +18,7 @@
 
 
 <br>
-#### 十分钟生物学 (共40集)
+#### 十分钟生物学 (共40集, 已全部翻译完成, 正在精校)
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
@@ -45,7 +45,7 @@
 [21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
 [22. 简单动物-海绵, 水母&章鱼 ](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html) <br>
 [23. 复杂动物-环节动物&节肢动物](http://v.youku.com/v_show/id_XNTg1OTY5NDg4.html) <br>
-24. (尚未翻译完成) <br>
+[24. 脊索动物 - Chordates - CrashCourse Biology #24](http://v.youku.com/v_show/id_XNTk3MTIxMDg4.html) <br>
 [25. 动物行为 | Animal Behavior](http://v.youku.com/v_show/id_XNTgwNzI3MTg0.html) <br>
 [26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
 [27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
