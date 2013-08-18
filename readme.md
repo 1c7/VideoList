@@ -30,7 +30,7 @@
 [3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
 [5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  <br>
-[6. 植物细胞    | Plant Cells](http://www.weibo.com/2004104451/zrYnklgv6)  <br>
+[6. 植物细胞 - Plant Cells - Crash Course Biology #6](http://v.youku.com/v_show/id_XNTk3MzAyNzIw.html)  <br>
 [7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  <br>
 [8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  <br>
 [9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  <br>
