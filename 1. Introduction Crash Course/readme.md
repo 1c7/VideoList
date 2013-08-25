@@ -2,9 +2,9 @@
 #### Crash Course 是一个 Youtube 频道: https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q
 
 
-![](imgs/list1.png)  
-![](imgs/list2.png)  
-![](imgs/list3.png)  
+![x](i/list1.png)  
+![x](i/list2.png)  
+![x](i/list3.png)  
 
 
 

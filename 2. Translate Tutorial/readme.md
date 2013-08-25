@@ -20,7 +20,7 @@
 安装完这个 Tampermonkey 脚本后.  每个Youtube视频下面都会有下载按钮  
 (建议下720p的视频, 具体原因后面会说)   
 预览图:  
-![a](img/v-download.png)  
+![a](i/v-download.png)  
 这个脚本的汉化有点问题, __标准分辨率__和__较高分辨率__写反了..  
 
 
@@ -35,9 +35,9 @@
 [Tampermonkey - Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)  <br>
 这个Tampermonkey脚本可以下载[做好的字幕], 安装后每个视频下都会有下载按钮.  __推荐!__  
 预览图(没有字幕的视频):  
-![b](img/subtitle.png)  
+![b](i/subtitle.png)  
 预览图(有字幕的视频):  
-![b](img/subtitle2.png)  
+![b](i/subtitle2.png)  
 
 额外说明: 这个脚本由Tim Smart编写, 我改进了一下..  
 (Tim Smart的原版不能直接下载, 字幕内容会在新标签页面里打开, 需要用户手动黏贴到新文件里, 现在可以直接下载了)       
@@ -49,7 +49,7 @@
 [Tampermonkey - Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)   <br>
 这个Tempermonkey脚本可以下载[自动字幕], 安装后每个视频下也会有下载按钮.  __推荐!__  
 预览图(有自动字幕的视频):  
-![b](img/auto-subtitle.png) 
+![b](i/auto-subtitle.png) 
 
 额外说明: 这个脚本是我写的. 如果有bug就找我吐槽吧..  
 
@@ -62,7 +62,7 @@
 <br>
 #### 3.1 上面那3个脚本都安装好后会咋样?
 这样:   
-![b](img/this.png)  
+![b](i/this.png)  
 
 
 
@@ -96,23 +96,23 @@ http://www.yousub.net/   <br>
 <br>
 #### 5. 嗯, 3样我都安装好了, 接下来呢?
 1. 打开Aegisub  
-![b](img/aegisub.png)  
+![b](i/aegisub.png)  
 
 2. 拖入视频  
-![b](img/aegisub2.png)  
+![b](i/aegisub2.png)  
 (上面是正在读取)  
-![b](img/aegisub3.png)  
+![b](i/aegisub3.png)  
 (上面是读取完毕)  
 
 3. 拖入字幕  
 拖入字幕这里要额外说明一下, Aegisub对SRT格式字幕的支持不是很好,   
 有时所有字幕会缩成一行, 如果缩成了一行, 那你就把字幕文件拖入SrtEdit, 转换成ASS格式就行了..  
 字幕拖入之后是这样的:  
-![b](img/aegisub4.png)  
+![b](i/aegisub4.png)  
 (不用鸟它, 点"否"就行, 这个"无标题"指的是当前这个下方这块的空字幕..)  
-![b](img/aegisub5.png)   
+![b](i/aegisub5.png)   
 (也不用理它, 同样点"否")  
-![b](img/aegisub6.png)  
+![b](i/aegisub6.png)  
 (现在可以了, 开始编辑吧)  
 
 
@@ -120,25 +120,25 @@ http://www.yousub.net/   <br>
 
 <br>
 #### 6. 为什么放视频的时候没声音(怨念状)?
-![b](img/aegisub-sound.png)   
+![b](i/aegisub-sound.png)   
 点击【音频】 -> 【从视频中打开音频】  
 现在可以了.. 有声音了..  
-![b](img/aegisub-sound2.png)   
+![b](i/aegisub-sound2.png)   
 
 
 
 
 <br>
 #### 7. 视频太小了!!..敢不敢放大一点?!!!
-![b](img/aegisub+.png)   
-![b](img/aegisub++.png)   
+![b](i/aegisub+.png)   
+![b](i/aegisub++.png)   
 
 
 
 
 <br>
 #### 8. 我想弄成中文字幕在上面 英文字幕在下面 应该怎么写?
-![b](img/N.png)   
+![b](i/N.png)   
 中间加个\N  
 
 
@@ -151,20 +151,20 @@ http://www.yousub.net/   <br>
 
 
 1. 打开小丸工具箱  
-![b](img/xiaowan.png)  
+![b](i/xiaowan.png)  
 
 2. 点击"视频"标签页  
-![b](img/xiaowan-shipin.png)  
+![b](i/xiaowan-shipin.png)  
 
 3. 拖入视频文件和字幕文件  
-![b](img/xiaowan-shipin-tuo.png)  
+![b](i/xiaowan-shipin-tuo.png)  
 ("输出"按钮代表输出的路径和输出的文件名.... 不是压制视频的意思)  
 
 4. 点击"压制"按钮  
-![b](img/xiaowan-wait.png)  
+![b](i/xiaowan-wait.png)  
 
 5. 等!  
-![b](img/wait.jpg)  
+![b](i/wait.jpg)  
 
 6. 压制好之后你爱扔哪儿扔哪儿吧....
 
@@ -218,9 +218,9 @@ https://github.com/1c7/Translate-Subtitle
 
 <br>
 ### 我想把字幕里的英文弄小.. 怎么办?  
-![b](img/size1.png)  
-![b](img/size2.png)  
-![b](img/size3.png)  
+![b](i/size1.png)  
+![b](i/size2.png)  
+![b](i/size3.png)  
 
 
 
@@ -233,22 +233,22 @@ https://github.com/1c7/Translate-Subtitle
 你可以把它压制成4:3的(1280x960).
 
 1. 打开小丸工具箱, 点击AVS标签页  
-![b](img/yazhi1.png)  
+![b](i/yazhi1.png)  
 
 2. 拖入视频和字幕  
-![b](img/yazhi2.png)  
+![b](i/yazhi2.png)  
 
 3. 勾选"黑边", 上120, 下120  
-![b](img/yazhi3.png)  
+![b](i/yazhi3.png)  
 
 4. 点击"预览".  
-![b](img/yazhi4.png)  
-![b](img/yazhi5.png)   
+![b](i/yazhi4.png)  
+![b](i/yazhi5.png)   
 (对字体大小不满意的话在Aegisub里修改就行...)  
 
 5. 满意后点击"压制AVS"  
-![b](img/yazhi6.png)  
-![b](img/yazhi7.png)  
+![b](i/yazhi6.png)  
+![b](i/yazhi7.png)  
 __(小贴士: 如果你不想加黑边 只想在"视频"标签页里压制视频, 也可以先来"AVS"标签页这里预览一下, 预览完了再去"视频"标签页压视频. )__
 
 
@@ -270,22 +270,22 @@ __(小贴士: 如果你不想加黑边 只想在"视频"标签页里压制视频
 如果你也碰到这种情况, 解决方法:  
 
 1. 进入"抽取"标签页  
-![b](img/fixavs1.png)  
+![b](i/fixavs1.png)  
 
 2. 点击"视频"按钮, 会弹出一个文件选择框, 选择有声音的那个原视频文件..  
-![b](img/fixavs2.png)   
+![b](i/fixavs2.png)   
 注意, 必须用按钮方式选, 直接拖入文件会无法抽取音频...  
 这应该是某种bug吧..  
 
 3. 点击"抽取音频1"  
-![b](img/fixavs3.png)  
-![b](img/fixavs4.png)  
+![b](i/fixavs3.png)  
+![b](i/fixavs4.png)  
 
 4. 进入"封装"标签页  
 把[没声音但是有字幕的视频文件], 和[音频文件]拖入对应的地方  
-![b](img/fixavs5.png)   
+![b](i/fixavs5.png)   
 然后点击"封装"即可  
-![b](img/fixavs6.png)  
+![b](i/fixavs6.png)  
 (不要在意这里的文件名, 我是随便拿个文件来演示而已....)  
 
 
