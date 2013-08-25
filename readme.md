@@ -3,20 +3,6 @@
 推荐的视频会特别注明出处 <br />
 
 
-
-
-
-<br>
-#### Stated Clearly
-原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
-![Stated Clearly Image](readme-img/Stated-Clearly.png)  <br>
-* [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
-* [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
-* [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
-* [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
-
-
-
 <br>
 #### 十分钟生物学 (共40集, 已全部翻译完成, 正在精校)
 翻译的是 Crash Course 频道的 Biology 系列   
@@ -83,6 +69,16 @@
 地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
+
+
+<br>
+#### Stated Clearly
+原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
+![Stated Clearly Image](readme-img/Stated-Clearly.png)  <br>
+* [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
+* [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
+* [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
+* [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
 
 
 
