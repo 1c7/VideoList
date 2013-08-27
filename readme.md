@@ -8,7 +8,7 @@
 翻译的是 Crash Course 频道的 Biology 系列   
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
-[1. 为啥碳原子是个荡妇 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
+[1. 为啥碳原子是个小骚货 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
 [2. 水 - 最棒的液体 - Water - Liquid Awesome - Crash Course Biology #2](http://video.sina.com.cn/v/b/113306709-2004104451.html)  <br>
 3. 正在精校 <br>
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
