@@ -9,8 +9,8 @@
 地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
 
 [1. 为啥碳原子是个荡妇 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
-2. 正在精校  <br>
-[3. 生物分子    | Biological Molecules - You Are What You Eat](http://www.weibo.com/2004104451/zrNsfxueM)  <br>
+[2. 水 - 最棒的液体 - Water - Liquid Awesome - Crash Course Biology #2](http://video.sina.com.cn/v/b/113306709-2004104451.html)  <br>
+3. 正在精校 <br>
 [4. 动物细胞    | Eukaryopolis - The City of Animal Cells](http://www.weibo.com/2004104451/zrYUX2PIA)  <br>
 [5. 细胞膜&运输 | In Da Club - Membranes & Transport](http://www.weibo.com/2004104451/ztkyNzjwm)  <br>
 [6. 植物细胞 - Plant Cells - Crash Course Biology #6](http://v.youku.com/v_show/id_XNTk3MzAyNzIw.html)  <br>
