@@ -5,10 +5,11 @@
 
 <br>
 #### 十分钟生物学
-此系列视频现在会在网易公开课上更新 我会和网易的人员一起翻译校对  
-在40集全部更新完之前 这边这个系列会暂时保留(会保留但是不会在这边更新了)  
-等40集全部弄完了这边的列表会清掉  同时我会把微博发的链接清掉  优酷的视频清掉
+此系列视频现在改到网易公开课上更新 我会和网易的人员一起翻译校对  
+所以这边的视频都清掉了..
+以后我会放个链接在这边..
 
+<!--
 [#已精校# 1. 为啥碳原子是个小骚货 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
 [#已精校# 2. 水 - 最棒的液体 - Water - Liquid Awesome - Crash Course Biology #2](http://video.sina.com.cn/v/b/113306709-2004104451.html)  <br>
 3. 正在精校 <br>
@@ -49,18 +50,19 @@
 [38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
 [39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
 [40. 生态学 | Ecology-Rules for Living on Earth](http://v.youku.com/v_show/id_XNTkyMDM2OTc2.html)  <br>
-
+-->
 
 <br>
 #### 十分钟生态学 (共12集)
-此系列和生物学一样
-
+此系列和生物学一样 
+<!--
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM) <br>
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi) <br>
 [3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k) <br>
 [4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html) <br>
 [5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
 [6. 生态演替](http://v.youku.com/v_show/id_XNTk1MzQ4OTU2.html) <br>
+-->
 
 
 
