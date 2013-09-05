@@ -65,8 +65,8 @@
 
 
 <br>
-#### 十分钟化学 (正在更新 目前有24集)
-地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
+#### 十分钟化学 (目前这个系列是官方正在更新的系列)
+原地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 
