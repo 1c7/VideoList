@@ -3,66 +3,18 @@
 推荐的视频会特别注明出处 <br />
 
 
+
 <br>
 #### 十分钟生物学 (共40集)
 此系列视频现在改到网易公开课上更新 我会和网易的人员一起翻译校对  
 所以这边的视频都清掉了..
 以后我会放个链接在这边..
 
-<!--
-[#已精校# 1. 为啥碳原子是个小骚货 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
-[#已精校# 2. 水 - 最棒的液体 - Water - Liquid Awesome - Crash Course Biology #2](http://video.sina.com.cn/v/b/113306709-2004104451.html)  <br>
-3. 正在精校 <br>
-[#已精校# 4. 动物细胞 - Eukaryopolis - The City of Animal Cells - Crash Course Biology #4](http://www.weibo.com/2004104451/A6XuPEmGz?mod=weibotime)  <br>
-[#已精校# 5. 细胞膜&运输 - In Da Club - Membranes & Transport - Crash Course Biology #5](http://v.youku.com/v_show/id_XNjAzMjIxNDc2.html)  <br>
-[#已精校# 6. 植物细胞 - Plant Cells - Crash Course Biology #6](http://v.youku.com/v_show/id_XNTk3MzAyNzIw.html)  <br>
-[7. ATP与呼吸   | ATP & Respiration](http://www.weibo.com/2004104451/zuetMA86u)  <br>
-[8. 光合作用    | Photosynthesis](http://www.weibo.com/2004104451/zugoxmuKJ)  <br>
-[9. 遗传        | Heredity](http://www.weibo.com/2004104451/zuJCVCFwH)  <br>
-[10. DNA的结构与复制](http://www.weibo.com/2004104451/zzUwMpyaz)  <br>
-[11. DNA, 夹心蛋糕, 世界上最长的单词](http://v.youku.com/v_show/id_XNTcyNDIzMzY4.html)  <br>
-[12. 有丝分裂 | Mitosis- Splitting Up is Complicated ](http://v.youku.com/v_show/id_XNTY4NTg1OTE2.html)  <br>
-[13. 减数分裂 | Meiosis - Where the Sex Starts](http://www.weibo.com/2004104451/zBPMRzqPd)  <br>
-[14. 物竞天择 | Natural Selection](http://www.weibo.com/2004104451/zxSvhD9YK)   <br>
-[15. 物种 | Speciation - Of Ligers & Men](http://www.weibo.com/2004104451/zvCP0vPKU)  <br>
-[16. 动物发育 | Animal Development](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
-[17. 演化发育学-鸡的牙齿 | Evolutionary Development-Chicken Teeth](http://www.weibo.com/2004104451/zvl5JyIUq)  <br>
-[18. 种群遗传学 - 当达尔文碰到孟德尔](http://v.youku.com/v_show/id_XNTc5MTM5MjAw.html) <br>
-[19. 生物分类学 | Taxonomy - Life Filing System](http://www.weibo.com/2004104451/zvzk5cmQK)  <br>
-[20. 进化       | Evolution- It's a Thing](http://www.weibo.com/2004104451/zs7JY9z5M)  <br>
-[21. 比较解剖学 | Comparative Anatomy](http://www.weibo.com/2004104451/zvWq3yoUg)  <br>
-[22. 简单动物-海绵, 水母&章鱼 ](http://v.youku.com/v_show/id_XNTgxNzI4MTcy.html) <br>
-[23. 复杂动物-环节动物&节肢动物](http://v.youku.com/v_show/id_XNTg1OTY5NDg4.html) <br>
-[24. 脊索动物 - Chordates - CrashCourse Biology #24](http://v.youku.com/v_show/id_XNTk3MTIxMDg4.html) <br>
-[25. 动物行为 | Animal Behavior](http://v.youku.com/v_show/id_XNTgwNzI3MTg0.html) <br>
-[26. 神经系统 | The Nervous System](http://www.weibo.com/2004104451/zzJpJD0Ys)  <br>
-[27. 循环&呼吸系统 | Circulatory & Respiratory System](http://www.weibo.com/2004104451/zweeTlrfy)  <br>
-[28. 消化系统 | The Digestive System](http://www.weibo.com/2004104451/zzJpNtA4Q)  <br>
-[29. 排泄系统 - The Excretory System](http://v.youku.com/v_show/id_XNTcyMzYxNzA4.html)  <br>
-[30. 骨骼系统 | The Skeletal System- It's ALIVE!](http://www.weibo.com/2004104451/zE6636IEy?mod=weibotime) <br>
-[31. 肌肉系统 | Big Guns - The Muscular System](http://v.youku.com/v_show/id_XNTczNzIwMzY4.html)  <br>
-[32. 免疫系统 - Your Immune System - Natural Born Killer - Crash Course Biology #32](http://v.youku.com/v_show/id_XNTkzNDI0Mjg0.html)<br>
-[33. 内分泌系统 | Your Endocrine System](http://v.youku.com/v_show/id_XNTc0OTU4MzIw.html)  <br>
-[34. 生殖系统 | The Reproductive System](http://v.youku.com/v_show/id_XNTczOTU4NjA0.html)  <br>
-[35. 古细菌, 细菌和原生生物 | Old & Odd- Archaea, Bacteria & Protists](http://www.weibo.com/2004104451/zxMcY3xA7)  <br>
-[36. 非维管植物的繁殖 - The Sex Lives of Nonvascular Plants - Alternation of Generations - Crash Course Biology #36](http://v.youku.com/v_show/id_XNTkzMzYwMjY4.html)<br>
-[37. 维管植物获胜! | Vascular Plants Winning!](http://video.sina.com.cn/v/b/111507835-2004104451.html)  <br>
-[38. 植物&蜜蜂 - 植物的繁殖](http://video.sina.com.cn/v/b/111388407-2004104451.html)  <br>
-[39. 真菌 | Fungi - Death Becomes Them](http://v.youku.com/v_show/id_XNTczOTEzMTA0.html)  <br>
-[40. 生态学 | Ecology-Rules for Living on Earth](http://v.youku.com/v_show/id_XNTkyMDM2OTc2.html)  <br>
--->
+
 
 <br>
 #### 十分钟生态学 (共12集)
 此系列和生物学一样 
-<!--
-[1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM) <br>
-[2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi) <br>
-[3. 人类人口的增长](http://www.weibo.com/2004104451/zuHazjz8k) <br>
-[4. 群落生态学](http://v.youku.com/v_show/id_XNTg0NzY0Njc2.html) <br>
-[5. 群落生态学2](http://v.youku.com/v_show/id_XNTg0OTMxOTY4.html) <br>
-[6. 生态演替](http://v.youku.com/v_show/id_XNTk1MzQ4OTU2.html) <br>
--->
 
 
 
@@ -70,6 +22,7 @@
 #### 十分钟化学 (目前这个系列是官方正在更新的系列)
 原地址: https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
+
 
 
 
