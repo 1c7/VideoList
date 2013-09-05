@@ -4,9 +4,10 @@
 
 
 <br>
-#### 十分钟生物学 (共40集, 已全部翻译完成, 正在精校)
-翻译的是 Crash Course 频道的 Biology 系列   
-地址: http://www.youtube.com/course?list=EC3EED4C1D684D3ADF<br>
+#### 十分钟生物学
+此系列视频现在会在网易公开课上更新 我会和网易的人员一起翻译校对  
+在40集全部更新完之前 这边这个系列会暂时保留  
+等40集全部弄完了这边的列表会清掉  同时我会把微博发的链接清掉  优酷的视频清掉
 
 [#已精校# 1. 为啥碳原子是个小骚货 - That's Why Carbon Is A Tramp - Crash Course Biology #1](http://v.youku.com/v_show/id_XNjAwNjkxODY0.html) <br>
 [#已精校# 2. 水 - 最棒的液体 - Water - Liquid Awesome - Crash Course Biology #2](http://video.sina.com.cn/v/b/113306709-2004104451.html)  <br>
@@ -52,8 +53,7 @@
 
 <br>
 #### 十分钟生态学 (共12集)
-翻译的是 Crash Course 频道的 Ecology 系列   
-地址: http://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
+此系列和生物学一样
 
 [1. 地球上生命的历史](http://www.weibo.com/2004104451/zuqiZ70bM) <br>
 [2. 种群生态学](http://www.weibo.com/2004104451/zuzs0oxKi) <br>
