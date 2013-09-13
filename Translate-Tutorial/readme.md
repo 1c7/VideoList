@@ -19,7 +19,7 @@
 [Tampermonkey - YouTube Video Download](http://userscripts.org/scripts/show/62634)  
 安装完这个 Tampermonkey 脚本后.  每个Youtube视频下面都会有下载按钮  
 ( 建议下720p的分辨率, 理由是720p的清晰度足够了 而且压制也不怎么费时 )   
-( 我曾经试过翻译和压制1080p的视频 好家伙 都快把我卡死了。。)
+( 我曾经试过翻译和压制1080p的视频.. 清晰的确是清晰..但那玩意都快把我卡死了)  
 预览图:  
 ![a](i/v-download.png)  
 这个脚本的汉化有点问题, __标准分辨率__ 和 __较高分辨率__ 写反了..  
