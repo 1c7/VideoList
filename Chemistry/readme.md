@@ -1,4 +1,4 @@
-### Crash Course Chemisty 翻译
+### 参与 Crash Course Chemisty 翻译的一些说明
 这篇东西会随时更新 因为里面放了网盘链接 你可以把这页保存个书签什么的  
 
 
@@ -40,7 +40,11 @@ https://github.com/1c7/VideoList/tree/master/Translate-Tutorial
 完全没动过的视频和字幕:  
 链接:http://pan.baidu.com/share/link?shareid=2382295859&uk=404030035 密码:19v9
 
+
+
 ( 不是我闲着无聊喜欢加密码 是因为百度网盘的公开分享功能经常会抽风 经常分享失败 所以只好用这种私密分享方式 进去还要密码的这种 )
+
+( 视频的中文标题我是用谷歌翻译翻的 那是临时用的 )
 
 
 
