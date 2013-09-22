@@ -32,7 +32,7 @@
 [4. 元素週期表 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
-翻译者： 
+参与翻译的人员： 
 [@Ruki一n一](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)  
 
 
