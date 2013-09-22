@@ -26,15 +26,14 @@
 
 <br>
 #### 十分钟化学 (目前官方正在更新的系列)
-
-翻译者： 
 [1. 原子核 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
 [2. 單位轉換與有效位數 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
 [3. 基本定律 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
 [4. 元素週期表 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
-[@Ruki一n一](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
+翻译者： 
+[@Ruki一n一](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)  
 
 
 
