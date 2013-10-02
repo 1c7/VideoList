@@ -6,7 +6,7 @@
 
 
 <br>
-#### 十分钟生物学 (共40集)
+#### 十分钟生物学 - 生物速成班-  Crash Course Biology (共40集)
 这系列视频原本是我自己翻完了扔微博和优酷上的，但问题是一个人翻的必然会有错。 <br />
 所以此系列视频现在改到网易公开课上更新，我会和网易的人员一起翻译和校对。<br />
 
@@ -17,7 +17,7 @@
 
 
 <br>
-#### 十分钟生态学 (共12集)
+#### 十分钟生态学 - 生态学速成班 - Crash Course Ecology (共12集)
 此系列和生物学一样   不过这个系列的有点难  
 我只翻了一半(1,2,3,4,5,6,8) 其他的还没翻完  
 这个系列会更新的   
@@ -25,7 +25,7 @@
 
 
 <br>
-#### 十分钟化学 (目前官方正在更新的系列)
+#### 十分钟化学 - 化学速成班 - Crash Course Chemistry (目前官方正在更新的系列)
 [1. 原子核 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
 [2. 單位轉換與有效位數 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
 [3. 基本定律 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
