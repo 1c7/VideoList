@@ -18,8 +18,8 @@
 
 <br>
 #### 十分钟生态学 - 生态学速成班 - Crash Course Ecology (共12集)
-這系列改为先在微博更新，全部翻完了再搬到网易公开课。  
-
+[11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)  
+[12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)  
 
 
 <br>
@@ -31,8 +31,8 @@
 [5. 電子(中文字幕 翻譯by班尼張)](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
-参与翻译的人员： 
-[@Ruki一n一(新浪微博主頁)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)  
+参与翻译的人员：   
+[@Ruki一n一(新浪微博主頁)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
 [班尼張(Facebook主頁)](https://www.facebook.com/BennySciCh?fref=ts)  
 [@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
 
