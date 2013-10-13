@@ -28,6 +28,7 @@
 [2. 單位轉換與有效位數 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
 [3. 基本定律 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
 [4. 元素週期表 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
+[5. 電子(中文字幕 翻譯by班尼張)](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 参与翻译的人员： 
