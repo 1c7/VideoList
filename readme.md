@@ -18,10 +18,12 @@
 
 <br>
 #### 十分钟生态学 - 生态学速成班 - Crash Course Ecology (共12集)
+[7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)  
 [11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)  
 [12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)  
 
 参与翻译的人员：   
+[@戴禄霍(新浪微博主頁)](http://weibo.com/738234769)  
 [@洋流范儿(新浪微博主頁)](http://www.weibo.com/shanmusunny)   
 [@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
 
