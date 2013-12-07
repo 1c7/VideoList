@@ -6,18 +6,16 @@
 
 
 <br>
-#### 十分钟生物学 - 生物速成班-  Crash Course Biology (共40集)
-这系列视频原本是我自己翻完了扔微博和优酷上的，但问题是一个人翻的必然会有错。 <br />
-所以此系列视频现在改到网易公开课上更新，我会和网易的人员一起翻译和校对。<br />
-
-这里原本有张列表的  现在删掉了  我在优酷新浪微博上发的视频也删光了。<br />
-删掉是因为视频反正会校对后在网易公开课上放出来，校对过的肯定比原来的好，所以那些视频就没存在的意义了。<br />
-等网易把视频上线后我会在这边放个链接。<br />
+#### 生物速成班-  Crash Course Biology (共40集)
+我们翻译完后放到网易公开课上去了, 地址:  
+http://v.163.com/special/opencourse/crashcoursebiology.html  
 
 
 
 <br>
-#### 十分钟生态学 - 生态学速成班 - Crash Course Ecology (共12集)
+#### 生态学速成班 - Crash Course Ecology (共12集)
+[1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)     
+[2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)   
 [7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)  
 [11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)  
 [12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)  
