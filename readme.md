@@ -1,19 +1,19 @@
-这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频目录。  <br />
-视频有翻译的 有搬运的 有推荐的 有和其他人合作翻译的。 <br />
+这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频目录。<br />
+视频有翻译的，有搬运的，有推荐的，有和其他人合作翻译的。 <br />
 推荐的视频会特别注明出处。 <br />
-合作翻译的视频会列出合作翻译者的信息。 <br />
+合作翻译的视频会列出合作译者的信息。 <br />
 
 
 
 <br>
-#### 生物速成班-  Crash Course Biology (共40集)
-我们翻译完后放到网易公开课上去了, 地址:  
+#### 十分钟生物学 - Crash Course Biology (共40集)
+我们翻完后放网易公开课上去了, 地址:  
 http://v.163.com/special/opencourse/crashcoursebiology.html  
 
 
 
 <br>
-#### 生态学速成班 - Crash Course Ecology (共12集)
+#### 十分钟生态学 - Crash Course Ecology (共12集)
 [1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)     
 [2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)   
 [7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)  
@@ -29,16 +29,16 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 <br>
 #### 十分钟化学 - 化学速成班 - Crash Course Chemistry (目前官方正在更新的系列)
-[1. 原子核 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
-[2. 單位轉換與有效位數 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
-[3. 基本定律 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
-[4. 元素週期表 (中文字幕 翻譯by班尼張)](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
-[5. 電子(中文字幕 翻譯by班尼張)](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
+[1. 原子核 ](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
+[2. 單位轉換與有效位數 ](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
+[3. 基本定律 ](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
+[4. 元素週期表 ](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
+[5. 電子 ](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
-参与翻译的人员：   
-[@Ruki一n一(新浪微博主頁)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
+参与翻译的人员有：  
 [班尼張(Facebook主頁)](https://www.facebook.com/BennySciCh?fref=ts)  
+[@Ruki一n一(新浪微博主頁)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
 [@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
 
 
@@ -204,28 +204,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 
-
-
-<br>
-
-----
-
-<br>
-
-
-
-#### 翻译计划:
-1. 翻40集的 Biology(生物学) 
-2. 精校
-2. 翻12集的 Echology(生态学) 
-3. 精校
-2. 翻 Chemisty(化学)..这个系列目前还在更新, 具体会有多少集不知道..
-
-
-ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找得到的话....) <br>
-
-
-
 <br>
 
 ---
@@ -233,7 +211,6 @@ ps: 当然..有空的话也会顺手更新其他有意思的东西..(如果找�
 <br>
 
 
-有翻译建议或是问题   
-可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&)给我留言, 或是发私信..  
-当然 如果你有Github帐号也可以直接开个issue  
+有问题可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&)给我留言, 或是发私信..  
+当然，如果你有Github帐号也可以直接开个issue
 <br>
