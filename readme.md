@@ -14,11 +14,15 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 <br>
 #### 十分钟生态学 - Crash Course Ecology (共12集)
-[1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)     
-[2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)   
-[7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)  
-[11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)  
-[12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)  
+[1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)       
+[2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)    
+[4. 群落生态学](http://video.sina.com.cn/v/b/121617295-2004104451.html)    
+[5. 群落生态学2](http://video.sina.com.cn/v/b/121617497-2004104451.html)    
+[6. 生态演替](http://video.sina.com.cn/v/b/121616256-2004104451.html)    
+[7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)    
+[8. 水循环和碳循环-永恒的循环1](http://video.sina.com.cn/v/b/121617855-2004104451.html)    
+[11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)    
+[12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)    
 
 参与翻译的人员：   
 [@戴禄霍(新浪微博主頁)](http://weibo.com/738234769)  
