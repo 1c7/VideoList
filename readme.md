@@ -185,8 +185,11 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 <br>
 #### Crash Course 花絮
+* [Crash Course 美国历史花絮 - 2013/12/27](http://video.sina.com.cn/v/b/122922962-2004104451.html)
+* [Crash Course 化学花絮 - 2013/12/02](http://video.sina.com.cn/v/b/121078812-2004104451.html)
+* [Crash Course 化学花絮 - 2013/9/30](http://v.youku.com/v_show/id_XNjE1ODE2NTY4.html)
 * [Crash Course 美国历史花絮 - 2013/08/02](http://video.sina.com.cn/v/b/111266570-2004104451.html)
-* [Crash Course 新花絮 - 2013/05/31](http://www.weibo.com/2004104451/zze3KAn3N)
+* [Crash Course 美国历史&文学花絮 - 2013/05/31](http://www.weibo.com/2004104451/zze3KAn3N)
 * [十分钟世界历史-花絮1](http://www.weibo.com/2004104451/zvUU5CuW6)
 * [十分钟世界历史-花絮2](http://www.weibo.com/2004104451/zvUUbfykA)
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
