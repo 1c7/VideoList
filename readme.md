@@ -1,8 +1,8 @@
-这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频目录。<br />
-视频有翻译的，有搬运的，有推荐的，有和其他人合作翻译的。 <br />
+这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频目录。<br />
+视频有翻译的，搬运的，推荐的，有和其他人合作翻译的。 <br />
 推荐的视频会特别注明出处。 <br />
 合作翻译的视频会列出合作译者的信息。 <br />
-
+这里并没有列出微博里的每一个视频, 因为个别视频是纯转载的, 感觉没有必要放在这里。 <br />
 
 
 <br>
@@ -115,8 +115,8 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 
 <br>
-#### 短片
-
+#### 科学短片
+* [关于树的奇妙事 - Veritasium](http://video.sina.com.cn/v/b/122247000-2004104451.html)
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
 * [(MinuteEarth) 为什么地球上会有沙漠? ](http://www.weibo.com/2004104451/zshAmoAU8)
@@ -185,6 +185,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 <br>
 #### Crash Course 花絮
+* [化学速成班花絮4 - 2014年01月20日](http://v.youku.com/v_show/id_XNjY1NzI1MTQ4.html)
 * [Crash Course 美国历史花絮 - 2013/12/27](http://video.sina.com.cn/v/b/122922962-2004104451.html)
 * [Crash Course 化学花絮 - 2013/12/02](http://video.sina.com.cn/v/b/121078812-2004104451.html)
 * [Crash Course 化学花絮 - 2013/9/30](http://v.youku.com/v_show/id_XNjE1ODE2NTY4.html)
@@ -200,7 +201,10 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-#### 其他
+#### 其他杂类视频
+* [超酷钢铁侠短片(跑车上穿戴盔甲)](http://v.youku.com/v_show/id_XNjY2NDUxNTgw.html)
+* [Crash Course Psychology Preview](http://v.youku.com/v_show/id_XNjY3MDk1MDUy.html)
+* [Elon Musk做客鸡毛秀](http://video.sina.com.cn/v/b/125027767-1835227073.html)
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
 * [钢铁侠模拟游戏机](http://www.weibo.com/2004104451/zu5uLg9EU)  
