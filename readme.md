@@ -32,7 +32,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 
 <br>
-#### 十分钟化学 - 化学速成班 - Crash Course Chemistry (目前官方正在更新的系列)
+#### 十分钟化学 - 化学速成班 - Crash Course Chemistry (共46集)
 [1. 原子核 ](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
 [2. 單位轉換與有效位數 ](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
 [3. 基本定律 ](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
