@@ -216,7 +216,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 ### 关于这个列表的说明
 这是个视频列表。目前的管理者是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)<br />
 
-有问题可以去我的微博(上面给了链接)给我留言, 或发私信.   
+有翻译建议，意见或是问题，可以去微博(上面给了链接)留言, 或私信.   
 当然，如果你有Github帐号也可以直接开个issue  
 <br>
 
