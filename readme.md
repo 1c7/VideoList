@@ -1,7 +1,5 @@
-
-<br>
 #### 十分钟生物学 - Crash Course Biology (共40集)
-我们翻完后放网易公开课上去了, 地址:  
+我们翻完后放到网易公开课上去了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html  
 
 
