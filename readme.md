@@ -222,6 +222,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 <br>
 
 
-有问题可以去[我的微博]((http://www.weibo.com/u/2004104451?wvr=5&)给我留言, 或是发私信..  
+有问题可以去[我的微博](http://www.weibo.com/u/2004104451?wvr=5&)给我留言, 或是发私信..  
 当然，如果你有Github帐号也可以直接开个issue
 <br>
