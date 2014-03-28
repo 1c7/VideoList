@@ -212,8 +212,9 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 ---
 
 <br>
-### 关于这个列表的说明
-有翻译建议，意见或是问题，可以去我的微博([@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&))留言,或私信.   
+### 关于列表的说明
+有翻译建议,意见或问题，可以去我的微博([@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&))留言或私信.  
+:D  
 <br>
 
 
