@@ -31,7 +31,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [4. 元素週期表 ](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
 [5. 電子 ](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
 [6. 化学计量学](http://v.youku.com/v_show/id_XNzA2Mzc4NjI0.html)  
-[7. 水和溶液](http://www.tudou.com/programs/view/A6UllYEN3nE/)     
+[7. 水和溶液](http://www.tudou.com/programs/view/A6UllYEN3nE/)  
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 参与翻译的人员有：  
