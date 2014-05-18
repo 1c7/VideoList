@@ -35,7 +35,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [21. 实验室安全 - Lab Techniques & Safety - Crash Course Chemistry #21](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)
 
 参与翻译的人员有：  
-[@Not小月月](http://weibo.com/u/2182526935)
+[@Not小月月](http://weibo.com/u/2182526935)  
 [班尼張(Facebook主頁)](https://www.facebook.com/BennySciCh?fref=ts)  
 [@Ruki一n一(新浪微博主頁)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
 [@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
