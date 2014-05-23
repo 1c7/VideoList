@@ -17,7 +17,7 @@
 #### 2. 怎么下载 Youtube 视频?
 看这个视频:  https://www.youtube.com/watch?v=jWgcVHoUqS4  <br>
 里面演示的很详细. <br>
-
+或者看这个帖子：http://mooc.guokr.com/post/605283/
 
 
 
