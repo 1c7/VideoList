@@ -14,6 +14,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 <br>
 #### 十分钟生态学 - Crash Course Ecology (共12集)
+还有3，9，10没翻。。其他都翻了    
 [1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)       
 [2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)    
 [4. 群落生态学](http://video.sina.com.cn/v/b/121617295-2004104451.html)    
@@ -43,7 +44,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
 [40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)  
 
-参与翻译的人员有：
+参与翻译的人员有：  
 [@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)  
 [@_你只是我的无可取代(新浪微博)](http://weibo.com/u/2561817737)  
 [@caochenwei(新浪微博)](http://weibo.com/byroncao)  
