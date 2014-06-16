@@ -1,3 +1,11 @@
+
+### 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频列表
+做个列表比较方便，因为翻的视频多了在微博会很麻烦，翻页都累死了。
+
+
+
+
+<br>
 #### 十分钟生物学 - Crash Course Biology (共40集)
 我们翻完后放到网易公开课上去了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html  
@@ -217,13 +225,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 <br>
 
----
-
-<br>
-### 关于列表的说明
-有翻译错误, 翻译建议, 或是问题, 可以去我的微博([@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&))留言或私信.  
-:D  
-<br>
 
 
 
