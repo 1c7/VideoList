@@ -41,6 +41,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [5. 電子 ](http://video.sina.com.cn/v/b/116716605-2004104451.html)  
 [6. 化学计量学](http://v.youku.com/v_show/id_XNzA2Mzc4NjI0.html)  
 [7. 水和溶液](http://www.tudou.com/programs/view/A6UllYEN3nE/)  
+[8. 溶液中的酸碱反应](http://v.youku.com/v_show/id_XNzI3OTI5NTcy.html)   
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
 [40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)  
 
@@ -72,8 +73,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 这部分的来源比较杂.  
 但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
 
-* [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNTcwMzUwMDk2.html)
-* [克里斯·哈德菲尔德和流言终结者-测试新的太空食谱](http://www.weibo.com/2004104451/zz8eMkhDQ)
+* [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNjY1NzUzNDgw.html)
 * [(TED-ed) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
 * [(加拿大航天局) 克里斯·哈德菲尔德教你如何控制国际空间站的机械臂](http://www.weibo.com/2004104451/zuSN1FyPS)
@@ -101,7 +101,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 * [NASA - 地球夜景](http://v.youku.com/v_show/id_XNTcwMjY2MTMy.html)
 * [Space Oddity - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zxSv9FSj1)
 * [Chris Hadfield 和数百名学生一起唱 "Is Somebody Sing"](http://www.weibo.com/2004104451/zBOWxEmQD)
-* [(英文字幕) Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
+* [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
 
 
 
