@@ -87,9 +87,9 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 * [如何成为你想成为的人? - 宇航员克里斯·哈德菲尔德](http://www.weibo.com/2004104451/zvWdtsgh1)  
 * [宇航员离心机训练 - 宇航员克里斯·哈德菲尔德](http://v.youku.com/v_show/id_XNTc2MTU3MTM2.html)  
 * [游览国际空间站 - 命运号实验舱 & 哥伦布实验舱 & 希望号实验舱](http://www.weibo.com/2004104451/zwOkbj39w)     
-* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)
-
-
+* [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)    
+* [国际空间站-穹顶舱 Window on the World](http://v.youku.com/v_show/id_XNjY3NDgwNjg4.html)     
+* [宇航员在国际空间站过感恩节(有空间站上吃饭的镜头)](http://v.youku.com/v_show/id_XNjY3NTYyMTM2.html)   
 
 
 <br>
