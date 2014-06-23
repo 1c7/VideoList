@@ -42,13 +42,17 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [6. 化学计量学](http://v.youku.com/v_show/id_XNzA2Mzc4NjI0.html)  
 [7. 水和溶液](http://www.tudou.com/programs/view/A6UllYEN3nE/)  
 [8. 溶液中的酸碱反应](http://v.youku.com/v_show/id_XNzI3OTI5NTcy.html)   
+[9. 沉淀反应](http://v.youku.com/v_show/id_XNzI5MTA5ODg4.html)   
 [10. 氧化还原反应](http://v.qq.com/page/t/z/4/t0130z3knz4.html)   
+[12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)   
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
-[40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)  
+[22. 原子间相互作用 - 化学键类型](http://v.youku.com/v_show/id_XNzMwMjM3NjE2.html)   
+[40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)    
+
 
 参与翻译的人员有：  
 [@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)  
-[@_你只是我的无可取代(新浪微博)](http://weibo.com/u/2561817737)  
+[@_你只是我的无可取代(朱子杰)(新浪微博)](http://weibo.com/u/2561817737)  
 [@caochenwei(新浪微博)](http://weibo.com/byroncao)  
 [@Not小月月(新浪微博)](http://weibo.com/u/2182526935)  
 [班尼張(Facebook)](https://www.facebook.com/BennySciCh?fref=ts)  
