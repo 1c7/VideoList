@@ -14,7 +14,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 <br>
 #### 十分钟生态学 - Crash Course Ecology (共12集)
-还有3，9，10没翻。。其他都翻了    
+还有3，9没翻。其他都翻了    
 [1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)       
 [2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)    
 [4. 群落生态学](http://video.sina.com.cn/v/b/121617295-2004104451.html)    
@@ -22,6 +22,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [6. 生态演替](http://video.sina.com.cn/v/b/121616256-2004104451.html)    
 [7. 生态系统生态学](http://v.youku.com/v_show/id_XNjIxNjk2NjA4.html)    
 [8. 水循环和碳循环-永恒的循环1](http://video.sina.com.cn/v/b/121617855-2004104451.html)    
+[10. 人类对环境的5个影响](http://v.youku.com/v_show/id_XNzMyNzA0MjY4.html)    
 [11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)    
 [12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)    
 
