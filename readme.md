@@ -1,4 +1,4 @@
-
+[2014-6-30更新]
 ### 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频列表
 做个列表比较方便，因为翻的视频多了在微博会很麻烦，翻页都累死了。
 
@@ -45,14 +45,18 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [8. 溶液中的酸碱反应](http://v.youku.com/v_show/id_XNzI3OTI5NTcy.html)   
 [9. 沉淀反应](http://v.youku.com/v_show/id_XNzI5MTA5ODg4.html)   
 [10. 氧化还原反应](http://v.qq.com/page/t/z/4/t0130z3knz4.html)   
+[11. 怎样说化学用语](http://v.youku.com/v_show/id_XNzMyNzE2ODg4.html)   
 [12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)   
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
 [22. 原子间相互作用 - 化学键类型](http://v.youku.com/v_show/id_XNzMwMjM3NjE2.html)   
+[37. 原子化学历史](http://v.youku.com/v_show/id_XNzMxOTI4NTgw.html)  
 [40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)    
-
+[45. 聚合物](http://v.youku.com/v_show/id_XNzMxMDg1ODQ0.html)    
+[46. 全球碳循环](http://v.youku.com/v_show/id_XNzMyOTAxNTg4.html)   
 
 参与翻译的人员有：  
-[@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)  
+[@杨杨youngs(新浪微博](http://weibo.com/u/5059526126)   
+[@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)   
 [@_你只是我的无可取代(朱子杰)(新浪微博)](http://weibo.com/u/2561817737)  
 [@caochenwei(新浪微博)](http://weibo.com/byroncao)  
 [@Not小月月(新浪微博)](http://weibo.com/u/2182526935)  
