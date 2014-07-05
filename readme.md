@@ -50,6 +50,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)   
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
 [22. 原子间相互作用 - 化学键类型](http://v.youku.com/v_show/id_XNzMwMjM3NjE2.html)   
+[30. pH and pOH](http://v.youku.com/v_show/id_XNzMzMDAxMTAw.html)    
 [37. 原子化学历史](http://v.youku.com/v_show/id_XNzMxOTI4NTgw.html)  
 [40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)    
 [45. 聚合物](http://v.youku.com/v_show/id_XNzMxMDg1ODQ0.html)    
