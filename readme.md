@@ -1,19 +1,27 @@
-[2014-7-5更新]
+[2014-7-24更新]
 ### 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频列表
-做个列表比较方便，因为翻的视频多了在微博会很麻烦，翻页都累死了。
-如果链接失效请在微博告诉我。
 
 
 
 <br>
-#### 十分钟生物学 - Crash Course Biology (共40集)
+#### 【心理学】速成班 - Crash Course Psychology
+[8. 意识](http://v.youku.com/v_show/id_XNzQ0NTIzMTc2.html?qq-pf-to=pcqq.group)
+
+翻译团队：   
+[@鸾爷爱吃麻辣虾球(新浪微博主頁)](http://weibo.com/u/1876246981)  
+[@JING-TIME(新浪微博)](http://weibo.com/u/1633495465) 
+
+
+
+<br>
+#### 【生物学】速成班 - Crash Course Biology (共40集)
 我们翻完后放到网易公开课上去了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html  
 
 
 
 <br>
-#### 十分钟生态学 - Crash Course Ecology (共12集)
+#### 【生态学】速成班 - Crash Course Ecology (共12集)
 还有3没翻。其他都翻了    
 [1. 地球历史](http://video.sina.com.cn/v/b/121079106-2004104451.html)       
 [2. 种群生态学](http://video.sina.com.cn/v/b/121080656-2004104451.html)    
@@ -27,7 +35,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [11. 污染](http://v.youku.com/v_show/id_XNjIwODg4NDY0.html)    
 [12. 保护和恢复生态](http://v.youku.com/v_show/id_XNjIwODkxOTcy.html)    
 
-参与翻译的人员：   
+翻译团队：   
 [@戴禄霍(新浪微博主頁)](http://weibo.com/738234769)  
 [@洋流范儿(新浪微博主頁)](http://www.weibo.com/shanmusunny)   
 [@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
@@ -35,7 +43,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 
 <br>
-#### 十分钟化学 - 化学速成班 - Crash Course Chemistry (共46集)
+#### 【化学】速成班 - Crash Course Chemistry (共46集)
 [1. 原子核 ](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
 [2. 單位轉換與有效位數 ](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
 [3. 基本定律 ](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
@@ -56,7 +64,7 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [45. 聚合物](http://v.youku.com/v_show/id_XNzMxMDg1ODQ0.html)    
 [46. 全球碳循环](http://v.youku.com/v_show/id_XNzMyOTAxNTg4.html)   
 
-参与翻译的人员有：  
+翻译团队：  
 [@杨杨youngs(新浪微博](http://weibo.com/u/5059526126)   
 [@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)   
 [@_你只是我的无可取代(朱子杰)(新浪微博)](http://weibo.com/u/2561817737)  
