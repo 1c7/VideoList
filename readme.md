@@ -2,6 +2,22 @@
 ### 这里是[@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)的视频列表
 
 
+<!--
+
+<br>
+#### 【世界历史第2季】 - Crash Course World History Season 2
+
+翻译团队：   
+
+
+
+<br>
+#### 【文学第2季】 - Crash Course Literture Season 2
+
+
+翻译团队：   
+
+-->
 
 <br>
 #### 【心理学】速成班 - Crash Course Psychology
