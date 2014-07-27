@@ -70,8 +70,10 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 [8. 溶液中的酸碱反应](http://v.youku.com/v_show/id_XNzI3OTI5NTcy.html)   
 [9. 沉淀反应](http://v.youku.com/v_show/id_XNzI5MTA5ODg4.html)   
 [10. 氧化还原反应](http://v.qq.com/page/t/z/4/t0130z3knz4.html)   
-[11. 怎样说化学用语](http://v.youku.com/v_show/id_XNzMyNzE2ODg4.html)   
-[12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)   
+[11. 怎样说化学用语](http://v.youku.com/v_show/id_XNzMyNzE2ODg4.html)    
+[12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)    
+[13. 理想气体问题](http://v.youku.com/v_show/id_XNzQ1ODIzMDky.html)     
+[14. 实际气体](http://v.youku.com/v_show/id_XNzQ1ODU4MDEy.html)   
 [21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
 [22. 原子间相互作用 - 化学键类型](http://v.youku.com/v_show/id_XNzMwMjM3NjE2.html)   
 [30. pH and pOH](http://v.youku.com/v_show/id_XNzMzMDAxMTAw.html)    
@@ -160,7 +162,9 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 
 <br>
-#### 科学短片
+#### 科学
+* [世界上最伟大的签名簿 - The world's greatest autograph book](http://v.qq.com/page/h/e/9/h0132e4ske9.html)  
+* [牛顿亲手打造的望远镜 - Amazing piece of metal](http://v.qq.com/page/o/8/b/o01321yef8b.html)  
 * [关于树的奇妙事 - Veritasium](http://video.sina.com.cn/v/b/122247000-2004104451.html)
 * [(MinuteEarth) 我们的大气层正在散逸! --Our Atmosphere is Escaping!](http://www.weibo.com/2004104451/zxiXK52YE)
 * [(MinuteEarth) 山到底能有多高?](http://www.weibo.com/2004104451/zszIXzkFb)
@@ -246,9 +250,9 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 
 <br>
-#### 其他杂类视频
+#### 其他
+* [Edward Maya/MGMT - Stereo Love/Kids (VIOLIN COVER) - Peter Lee Johnson](http://v.youku.com/v_show/id_XNzQ0ODIzNDg0.html)   
 * [超酷钢铁侠短片(跑车上穿戴盔甲)](http://v.youku.com/v_show/id_XNjY2NDUxNTgw.html)
-* [Crash Course Psychology Preview](http://v.youku.com/v_show/id_XNjY3MDk1MDUy.html)
 * [Elon Musk做客鸡毛秀](http://video.sina.com.cn/v/b/125027767-1835227073.html)
 * [高清近距离拍摄 3部钢铁侠电影里的盔甲](http://www.weibo.com/2004104451/zxChgzOri)
 * [加利福尼亚迪士尼, 钢铁侠3展览](http://www.weibo.com/2004104451/zu6fOnldK)
