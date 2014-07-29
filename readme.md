@@ -19,8 +19,9 @@
 
 <br>
 #### 【心理学】速成班 - Crash Course Psychology
-[8. 意识](http://v.youku.com/v_show/id_XNzQ0NTIzMTc2.html?qq-pf-to=pcqq.group)
-
+[1. 心理学简介](http://v.youku.com/v_show/id_XNzQ3NTEwNTk2.html)      
+[8. 意识](http://v.youku.com/v_show/id_XNzQ0NTIzMTc2.html?qq-pf-to=pcqq.group)       
+    
 翻译团队：   
 [@鸾爷爱吃麻辣虾球(新浪微博主頁)](http://weibo.com/u/1876246981)  
 [@JING-TIME(新浪微博)](http://weibo.com/u/1633495465) 
