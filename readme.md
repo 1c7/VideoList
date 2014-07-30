@@ -20,6 +20,8 @@
 <br>
 #### 【心理学】速成班 - Crash Course Psychology
 [1. 心理学简介](http://v.youku.com/v_show/id_XNzQ3NTEwNTk2.html)      
+[2. 心理学研究方法 - Psychological Research](http://v.youku.com/v_show/id_XNzQ4NTEzNjA0.html)   
+[3. 充满化学物质的大脑 - The Chemical Mind](http://v.youku.com/v_show/id_XNzQ4NDk3MTEy.html)   
 [8. 意识](http://v.youku.com/v_show/id_XNzQ0NTIzMTc2.html?qq-pf-to=pcqq.group)       
     
 翻译团队：   
