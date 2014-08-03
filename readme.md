@@ -22,10 +22,7 @@
 
 <br>
 #### 【心理学】速成班 - Crash Course Psychology
-[1. 心理学简介](http://v.youku.com/v_show/id_XNzQ3NTEwNTk2.html)      
-[2. 心理学研究方法 - Psychological Research](http://v.youku.com/v_show/id_XNzQ4NTEzNjA0.html)   
-[3. 充满化学物质的大脑 - The Chemical Mind](http://v.youku.com/v_show/id_XNzQ4NDk3MTEy.html)   
-[8. 意识](http://v.youku.com/v_show/id_XNzQ0NTIzMTc2.html?qq-pf-to=pcqq.group)       
+列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/607388/)         
     
 翻译团队：   
 [@鸾爷爱吃麻辣虾球(新浪微博主頁)](http://weibo.com/u/1876246981)  
@@ -64,27 +61,8 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 <br>
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
-[1. 原子核 ](http://v.youku.com/v_show/id_XNjExOTk3MTMy.html)  
-[2. 單位轉換與有效位數 ](http://v.youku.com/v_show/id_XNjEyMDA3Nzcy.html)  
-[3. 基本定律 ](http://v.youku.com/v_show/id_XNjEyMDEwMDk2.html)  
-[4. 元素週期表 ](http://v.youku.com/v_show/id_XNjEyMDEyNDky.html)  
-[5. 電子 ](http://v.youku.com/v_show/id_XNzMyNzE0OTgw.html)  
-[6. 化学计量学](http://v.youku.com/v_show/id_XNzA2Mzc4NjI0.html)  
-[7. 水和溶液](http://www.tudou.com/programs/view/A6UllYEN3nE/)  
-[8. 溶液中的酸碱反应](http://v.youku.com/v_show/id_XNzI3OTI5NTcy.html)   
-[9. 沉淀反应](http://v.youku.com/v_show/id_XNzI5MTA5ODg4.html)   
-[10. 氧化还原反应](http://v.qq.com/page/t/z/4/t0130z3knz4.html)   
-[11. 怎样说化学用语](http://v.youku.com/v_show/id_XNzMyNzE2ODg4.html)    
-[12. 理想气体定律](http://v.youku.com/v_show/id_XNzI5NTg4NDA4.html)    
-[13. 理想气体问题](http://v.youku.com/v_show/id_XNzQ1ODIzMDky.html)     
-[14. 实际气体](http://v.youku.com/v_show/id_XNzQ1ODU4MDEy.html)   
-[21. 实验室安全](http://www.weibo.com/2076100713/A3ndJ7bPH?mod=weibotime)  
-[22. 原子间相互作用 - 化学键类型](http://v.youku.com/v_show/id_XNzMwMjM3NjE2.html)   
-[30. pH and pOH](http://v.youku.com/v_show/id_XNzMzMDAxMTAw.html)    
-[37. 原子化学历史](http://v.youku.com/v_show/id_XNzMxOTI4NTgw.html)  
-[40. 碳氢化合物的力量](http://weibo.com/1633495465/B8cffiZs4)    
-[45. 聚合物](http://v.youku.com/v_show/id_XNzMxMDg1ODQ0.html)    
-[46. 全球碳循环](http://v.youku.com/v_show/id_XNzMyOTAxNTg4.html)   
+
+列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/606459/)      
 
 翻译团队：  
 [@杨杨youngs(新浪微博](http://weibo.com/u/5059526126)   
