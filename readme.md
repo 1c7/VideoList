@@ -1,6 +1,4 @@
-### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
-视频有我独立翻译的，也有合作翻译的，也有纯粹搬运的，也有我推荐的。
-我都会列在这个表里。
+### [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
 
 
 <!--
@@ -21,7 +19,7 @@
 -->
 
 <br>
-#### 【心理学】速成班 - Crash Course Psychology
+#### 【心理学】速成班 --- Crash Course Psychology
 列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/607388/)         
     
 翻译团队：   
@@ -31,14 +29,14 @@
 
 
 <br>
-#### 【生物学】速成班 - Crash Course Biology (共40集)
+#### 【生物学】速成班 --- Crash Course Biology (共40集)
 我们翻完后放到网易公开课上去了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
 
 
 <br>
-#### 【生态学】速成班 - Crash Course Ecology (共12集)
+#### 【生态学】速成班 --- Crash Course Ecology (共12集)
 我们翻完后放到网易公开课上去了:   
 http://v.163.com/special/opencourse/crashcourseecology.html    
 
@@ -50,7 +48,7 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 
 
 <br>
-#### 【化学】速成班 - Crash Course Chemistry (共46集)
+#### 【化学】速成班 --- Crash Course Chemistry (共46集)
 
 列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/606459/)      
 
