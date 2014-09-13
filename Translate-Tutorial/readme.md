@@ -1,5 +1,5 @@
 
-### 这里是一篇翻译视频的教程  
+### 翻视频教程  
 (最后更新时间: 2014年9月13日)    
 
 
@@ -7,44 +7,28 @@
 <br>
 #### 1. 怎么翻墙?
 关键词: goagent/VPN <br>
-相关教程网上有很多, 这里不赘述 <br>
+相关教程网上很多, 不赘述 <br>
 
 
 
 
 
 <br>
-#### 2. 怎么下载 Youtube 视频?
-看这个视频:  https://www.youtube.com/watch?v=jWgcVHoUqS4  <br>
-里面演示的很详细. <br>
-或者看这个帖子：http://mooc.guokr.com/post/605283/
+#### 2. 怎么下 Youtube 视频?
+把地址里的 youtube 改成 ssyoutube  
 
+例子：
+https://www.youtube.com/watch?v=jWgcVHoUqS4 
+
+https://www.ssyoutube.com/watch?v=jWgcVHoUqS4 
 
 
 
 
 <br>
-#### 3. Youtube 字幕怎么下载?
+#### 3. 怎么下 Youtube 字幕?
 
-[Tampermonkey - Youtube Subtitle Downloader](http://userscripts.org/scripts/show/170867)  <br>
-这个 Tampermonkey 脚本可以下载[做好的字幕], 安装后每个视频下都会有下载按钮.  __推荐!__  
-预览图(没有字幕的视频):  
-![b](i/subtitle.png)  
-预览图(有字幕的视频):  
-![b](i/subtitle2.png)  
-
-
-
-<br>
-<br>
-<br>
-[Tampermonkey - Youtube Auto Subtitle Downloader](http://userscripts.org/scripts/show/168581)   <br>
-这个Tempermonkey脚本可以下载[自动字幕], 安装后每个视频下也会有下载按钮.  __推荐!__  
-预览图(有自动字幕的视频):  
-![b](i/auto-subtitle.png) 
-
-额外说明: 这个脚本是我写的. 如果有bug就找我吐槽吧..  
-
+http://www.zhihu.com/question/19647719/answer/16843974?group_id=789328566
 
 
 
@@ -179,25 +163,6 @@ http://www.yousub.net/   <br>
 问: 什么是自动字幕?  
 答: Youtube有语音识别技术, 可以自动给视频加英文字幕, 准确率挺可观的 正确率平均可以达到80%以上   
 我之所以自己写下载自动字幕的脚本(见上面的说明), 是因为网上找不到这样的工具....  
-
-
-
-<br>
-### 英文太差, 有没有工具可以把字幕文件用谷歌翻译翻译一遍啊? 翻译完了我再修改... 
-
-https://github.com/1c7/Translate-Subtitle   
-把字幕文件拖放到 English-Chinese/Translate_Subtitle.exe 上面即可(支持srt和ass格式, 其他的格式还没测试过)  
-程序会用谷歌翻译翻译字幕的...   
-翻译完成后字幕会保存到新文件里..   
-假设原文件名是: test.srt  
-新文件名会是: (翻译完成)test.srt  
-
-<br>
-### 我想把字幕里的英文弄小.. 怎么办?  
-![b](i/size1.png)  
-![b](i/size2.png)  
-![b](i/size3.png)  
-
 
 
 
