@@ -37,9 +37,13 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/606459/)      
 
 
+<br>
+---
 
-
+<br>
 ### 以下是我翻译的其他科学类视频
+列这个表是因为，我都是翻完了就扔优酷/新浪，然后在微博发新视频的链接。
+微博翻页很累。而且看起来也乱。所以列个表会好很多。
 
 
 <br>
