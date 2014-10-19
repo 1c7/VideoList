@@ -1,66 +1,41 @@
-### [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
+### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
 
 
-<!--
+
+现在不像以前只有我一个人翻 Crash Course 了。因为热爱 Crash Course ，越来越多译者加入翻译这个系列。   
+我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)，  
+Crash Course 的视频以后都会在微博更新。  
+（想加入字幕组请加Q群 305631757 ）  
+
+
+这个会放一些 Crash Course 已翻译视频的【目录】链接，但不会更新单独视频的链接。  
+(我比较忙没时间经常更新这个表)   
+
 
 <br>
-#### 【世界历史第2季】 - Crash Course World History Season 2
+#### 【心理学】速成班 - Crash Course Psychology
+http://space.bilibili.com/space?uid=1950746      
 
-翻译团队：   
-
-
-
-<br>
-#### 【文学第2季】 - Crash Course Literature Season 2
-
-
-翻译团队：   
-
--->
-
-<br>
-#### 【心理学】速成班 --- Crash Course Psychology
-列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/607388/)         
-    
-翻译团队：   
-[@鸾爷爱吃麻辣虾球(新浪微博主頁)](http://weibo.com/u/1876246981)  
-[@JING-TIME(新浪微博)](http://weibo.com/u/1633495465) 
+这个系列 [@鸾爷(新浪微博)](http://weibo.com/u/1876246981) 全权负责
 
 
 
 <br>
-#### 【生物学】速成班 --- Crash Course Biology (共40集)
-我们翻完后放到网易公开课上去了:  
+#### 【生物学】速成班 - Crash Course Biology (共40集)
+翻完后放到网易公开课了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
 
-
 <br>
-#### 【生态学】速成班 --- Crash Course Ecology (共12集)
-我们翻完后放到网易公开课上去了:   
+#### 【生态学】速成班 - Crash Course Ecology (共12集)
+翻完后放到网易公开课了:    
 http://v.163.com/special/opencourse/crashcourseecology.html    
 
-翻译团队：   
-[@戴禄霍(新浪微博主頁)](http://weibo.com/738234769)  
-[@洋流范儿(新浪微博主頁)](http://www.weibo.com/shanmusunny)   
-[@糖醋陳皮(新浪微博主頁)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
-
-
 
 <br>
-#### 【化学】速成班 --- Crash Course Chemistry (共46集)
-
+#### 【化学】速成班 - Crash Course Chemistry (共46集)
 列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/606459/)      
 
-翻译团队：  
-[@杨杨youngs(新浪微博](http://weibo.com/u/5059526126)   
-[@JING-TIME(新浪微博)](http://weibo.com/u/1633495465)   
-[@_你只是我的无可取代(朱子杰)(新浪微博)](http://weibo.com/u/2561817737)  
-[@caochenwei(新浪微博)](http://weibo.com/byroncao)  
-[@Not小月月(新浪微博)](http://weibo.com/u/2182526935)  
-[班尼張(Facebook)](https://www.facebook.com/BennySciCh?fref=ts)  
-[@Ruki一n一(新浪微博)](http://www.weibo.com/518485675?topnav=1&wvr=5&topsug=1)   
-[@糖醋陳皮(新浪微博)](http://www.weibo.com/2004104451/profile?rightmod=1&wvr=5&mod=personnumber)
 
 
 
