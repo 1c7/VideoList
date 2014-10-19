@@ -3,7 +3,7 @@
 
 
 现在不像以前只有我一个人翻 Crash Course 了。因为热爱 Crash Course ，越来越多译者加入翻译这个系列。   
-我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)，  
+我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在已经有 75 人了(2014/10/19)  
 Crash Course 的视频以后都会在微博更新。  
 （想加入字幕组请加Q群 305631757 ）  
 
