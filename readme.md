@@ -17,7 +17,7 @@ Crash Course 的视频以后都会在微博更新。
 http://space.bilibili.com/space?uid=1950746      
 
 这个系列 [@鸾爷(新浪微博)](http://weibo.com/u/1876246981) 全权负责
-
+即将上线网易公开课，尽请期待
 
 
 <br>
@@ -34,7 +34,8 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 
 <br>
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
-列表搬到了 MOOC 学院去了:  [列表地址](http://mooc.guokr.com/post/606459/)      
+翻完后放到网易公开课了:    
+http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
 
 <br>
