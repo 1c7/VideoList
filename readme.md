@@ -2,22 +2,19 @@
 
 
 【关于 Crash Course 视频的一些说明】   
-现在不像以前只有我一个人翻 Crash Course 了。因为热爱 Crash Course ，越来越多译者加入翻译这个系列。    
-因此我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在已经有 75 人了(2014/10/19)  
+因为热爱 Crash Course ，越来越多译者加入翻译这个系列。不像以前只有我一个人翻 Crash Course 了。
+因此我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在已经有 97 人了(2014/12/17)  
 Crash Course 的视频以后都会在微博更新。  
 （想加入字幕组请加Q群 305631757 ）  
+注：做这个是没有收入的，我们放到网易也都是没有钱拿的。
 
 
-这里会放一些 Crash Course 已翻译视频的【目录】链接，但不会更新单独的 Crash Course 视频链接。
-
+这里会放 Crash Course 已翻译视频的【目录】，但不会更新单独的 Crash Course 视频。
 
 
 <br>
 #### 【心理学】速成班 - Crash Course Psychology
-http://space.bilibili.com/space?uid=1950746      
-
-这个系列 [@鸾爷(新浪微博)](http://weibo.com/u/1876246981) 全权负责
-即将上线网易公开课，尽请期待
+http://v.163.com/special/opencourse/crashcoursepsychology.html
 
 
 <br>
