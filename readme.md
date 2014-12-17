@@ -18,19 +18,16 @@ http://v.163.com/special/opencourse/crashcoursepsychology.html
 
 <br>
 #### 【生物学】速成班 - Crash Course Biology (共40集)
-翻完后放到网易公开课了:  
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
 
 <br>
 #### 【生态学】速成班 - Crash Course Ecology (共12集)
-翻完后放到网易公开课了:    
 http://v.163.com/special/opencourse/crashcourseecology.html    
 
 
 <br>
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
-翻完后放到网易公开课了:    
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
 
@@ -39,7 +36,7 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 
 <br>
 ### 以下是我翻译的其他科学类视频
-列这个表是因为，我都是翻完了就扔优酷/新浪，然后在微博发新视频的链接。
+列这个表是因为我都是翻完了就扔优酷/新浪，然后在微博发新视频的链接。
 微博翻页很累。而且看起来也乱。所以列个表会好很多。
 
 
