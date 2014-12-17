@@ -1,10 +1,9 @@
 ### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表。
 
 
-【关于 Crash Course 视频的一些说明】   
-因为热爱 Crash Course ，越来越多译者加入翻译这个系列。不像以前只有我一个人翻 Crash Course 了。
-因此我们成立了一个字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在已经有 97 人了(2014/12/17)  
-Crash Course 的视频以后都会在微博更新。  
+【关于 Crash Course 视频的说明】   
+因为热爱 Crash Course ，越来越多译者加入翻译这个系列。不像以前只有我一个人翻 Crash Course 了。  
+因此我们成立了字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在有 97 人了(2014/12/17)  
 （想加入字幕组请加Q群 305631757 ）  
 注：做这个是没有收入的，我们放到网易也都是没有钱拿的。
 
