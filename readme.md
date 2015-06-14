@@ -4,10 +4,10 @@
 <br>
 <br>
 【关于 Crash Course 的翻译】   
-因为热爱 Crash Course ，越来越多译者加入了翻译这个系列。
-因此我们成立了字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)， 现在有 110 人了 (2015年6月15号)  
-（字幕组Q群 __305631757__ ）  
-注：做字幕是没有任何收入的，我们放到网易也都是没有钱拿的。
+因为热爱 Crash Course ，越来越多译者加入了翻译这个系列。     
+因此我们成立了字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)          现在有 110 人了 (2015年6月15号)      
+( 字幕组Q群 __305631757__ )      
+注：做字幕是没有任何收入的，我们放到网易也是没钱拿的。      
 
 
 这里会放 Crash Course 已翻译视频的【目录】，但不会更新单独的 Crash Course 视频。
