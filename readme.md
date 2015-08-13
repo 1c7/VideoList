@@ -16,11 +16,11 @@
 <br>
 ##### 如何加入字幕组?
 字幕组 QQ 群号： __305631757__    
-[Crash Course 字幕组微博地址](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)    
+[Crash Course 字幕组微博地址](http://weibo.com/u/5237129097)    
 
 
 <br>
-下面是 Crash Course 已翻译视频的【目录】。  
+####  Crash Course 已翻译视频目录
 
 <br>
 ##### 【心理学】速成班 - Crash Course Psychology
@@ -46,7 +46,7 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 ---
 
 <br>
-### 以下是我翻译的其他【科学】类视频
+### 零碎科学类视频
 列个表在这里是因为我都是翻完了扔优酷/新浪，然后微博发视频链接。
 微博翻页累而且乱。列个表会好很多。
 
