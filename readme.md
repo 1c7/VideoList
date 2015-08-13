@@ -1,35 +1,32 @@
-### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表。
-博客放在 issue 那边了。  
+#### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表。
+博客在 issue 那边。  
 
 <br>
 <br>
-【关于 Crash Course 的翻译】   
-因为热爱 Crash Course ，越来越多译者加入了翻译这个系列。     
-因此我们成立了字幕组：[Crash Course 字幕组](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)          现在有 110 人了 (2015年6月15号)      
-( 字幕组Q群 __305631757__ )      
-注：做字幕是没有任何收入的，我们放到网易也是没钱拿的。      
+[Crash Course 字幕组微博地址](http://weibo.com/p/1005055237129097/weibo?from=page_100505&mod=TAB#place)    
+字幕组 QQ 群号： __305631757__     
+     
 
 
-这里会放 Crash Course 已翻译视频的【目录】，但不会更新单独的 Crash Course 视频。
-
+下面是 Crash Course 已翻译视频的【目录】。  
 
 <br>
-#### 【心理学】速成班 - Crash Course Psychology
+##### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
 
 
 <br>
-#### 【生物学】速成班 - Crash Course Biology (共40集)
+##### 【生物学】速成班 - Crash Course Biology (共40集)
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
 
 <br>
-#### 【生态学】速成班 - Crash Course Ecology (共12集)
+##### 【生态学】速成班 - Crash Course Ecology (共12集)
 http://v.163.com/special/opencourse/crashcourseecology.html    
 
 
 <br>
-#### 【化学】速成班 - Crash Course Chemistry (共46集)
+##### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
 
@@ -38,8 +35,8 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 
 <br>
 ### 以下是我翻译的其他【科学】类视频
-列表是因为我都是翻完了就扔优酷/新浪，然后在微博发新视频链接。
-微博翻页累而且乱。所以列个表会好很多。
+列个表在这里是因为我都是翻完了扔优酷/新浪，然后微博发视频链接。
+微博翻页累而且乱。列个表会好很多。
 
 
 <br>
@@ -50,7 +47,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
 * [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
 * [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
-
 
 
 
