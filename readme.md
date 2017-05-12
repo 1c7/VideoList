@@ -1,7 +1,6 @@
 #### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)(新浪微博) 的视频列表。
 
 
-<br>
 ##### 介绍下是个什么情况
 我从 2013 年开始翻译 Youtube 视频，翻译自己喜欢的东西.    
 主要是 10 分钟左右, 科学类的视频以及 Crash Course.    
@@ -13,45 +12,35 @@
 总结下  
 自己独立翻译喜欢的视频 -> 认识了很多朋友 -> 成立了字幕组 -> 现在因为各种原因不再翻译了.不过偶尔帮忙字幕组里的事(比如给新人回答下基础知识, 软件怎么用)    
 
-<br>
 ##### 如何加入字幕组?
 字幕组 QQ 群号： __305631757__    
 [Crash Course 字幕组微博地址](http://weibo.com/u/5237129097)    
 
 
-<br>
 ####  Crash Course 已翻译视频目录
 
-<br>
+
 ##### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
 
-
-<br>
 ##### 【生物学】速成班 - Crash Course Biology (共40集)
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
-
-<br>
 ##### 【生态学】速成班 - Crash Course Ecology (共12集)
 http://v.163.com/special/opencourse/crashcourseecology.html    
-
-
-<br>
 ##### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
 
-<br>
 ---
 
-<br>
+
 ### 零碎科学类视频
 列个表在这里是因为我都是翻完了扔优酷/新浪，然后微博发视频链接。
 微博翻页累而且乱。列个表会好很多。
 
 
-<br>
+
 #### Stated Clearly
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
 ![Stated Clearly Image](readme-img/Stated-Clearly.png)  <br>
@@ -62,7 +51,7 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 
 
 
-<br>
+
 #### 太空
 这部分的来源比较杂.  
 但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
@@ -86,7 +75,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [宇航员在国际空间站过感恩节(有空间站上吃饭的镜头)](http://v.youku.com/v_show/id_XNjY3NTYyMTM2.html)   
 
 
-<br>
 #### 太空音乐 & 其他
 * [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)  
 * [我们皆是探索者 - We Are the Explorers](http://www.weibo.com/2004104451/zxChl3fKF)
@@ -98,26 +86,12 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [Chris Hadfield and Barenaked Ladies I.S.S (Is Somebody Sing)](http://www.weibo.com/2004104451/zBOWRsq2T)
 
 
-
-
-
-
-
-
-<br>
 #### 斯潘格勒实验秀 - The Spangler Effect
 来源: http://www.youtube.com/channel/UC6sWKVFVfuyTk0FTPY4c62Q
 
 * [斯潘格勒实验秀(第1季第11集) -- 烧钱 [12:43]](http://www.weibo.com/2004104451/zwEEABkXt)  
 * [斯潘格勒实验秀(第2季第12集) -- 自制冰淇淋  [17:17]](http://v.youku.com/v_show/id_XNTc2OTA5ODQ4.html)  
 
-
-
-
-
-
-
-<br>
 #### 科学
 * [世界上最伟大的签名簿 - The world's greatest autograph book](http://v.qq.com/page/h/e/9/h0132e4ske9.html)  
 * [牛顿亲手打造的望远镜 - Amazing piece of metal](http://v.qq.com/page/o/8/b/o01321yef8b.html)  
@@ -130,15 +104,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [Pi和苹果派 - Calculating Pi with Real Pies - Numberphile](http://weibo.com/2004104451/zvsmx0ACo)
 * [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)  
 
-
-
-
-
-
-
-
-
-<br>
 #### 搬运系列(字幕来源网络,非本人翻译)
 来源TED-ed:   
 http://ed.ted.com/   
@@ -162,11 +127,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [亚里士多德 和 约夏·贝尔 教你如何劝说](http://www.weibo.com/2004104451/zszIgqIIl)
 * [简单的理念如何带领科学发现 -- 流言终结者主持人: 亚当·萨维奇](http://www.weibo.com/2004104451/zsA5z7BIb) 
 
-
-
-
-
-<br>
 #### Smarter Every Day
 视频来自Youtube的Smarter Every Day频道.  
 地址是:   http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA
@@ -185,10 +145,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [Smarter Every Day 94 - 奇妙的茧 | A MIND BLOWING Cocoon ](http://www.weibo.com/2004104451/zBx7b5ARp)
 * [Smarter Every Day 95 - 高速录像拍摄AK47水下开枪(第1部分)](http://v.youku.com/v_show/id_XNTc2MTQyMDUy.html)
 
-
-
-
-<br>
 #### Crash Course 花絮
 * [化学速成班花絮4 - 2014年01月20日](http://v.youku.com/v_show/id_XNjY1NzI1MTQ4.html)
 * [Crash Course 美国历史花絮 - 2013/12/27](http://video.sina.com.cn/v/b/122922962-2004104451.html)
@@ -201,11 +157,6 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [十分钟世界历史-花絮3](http://www.weibo.com/2004104451/zvUURuW06)
 * [十分钟生物学&生态学花絮集锦](http://www.weibo.com/2004104451/zvU9HCjYd)  
 
-
-
-
-
-<br>
 #### 其他
 * [Edward Maya/MGMT - Stereo Love/Kids (VIOLIN COVER) - Peter Lee Johnson](http://v.youku.com/v_show/id_XNzQ0ODIzNDg0.html)   
 * [超酷钢铁侠短片(跑车上穿戴盔甲)](http://v.youku.com/v_show/id_XNjY2NDUxNTgw.html)
@@ -216,14 +167,5 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [复仇者幕后花絮](http://www.weibo.com/2004104451/zyVHue8kL)
 * [对这个MV吐槽无力](http://www.weibo.com/2004104451/zyX3y7zEU)
 * [菲利普 L 怀特 动物博物馆 - BrainScoop](http://v.youku.com/v_show/id_XNTc3NjYxNTEy.html)
-
-
-
-
-<br>
-
-
-
-
 
 
