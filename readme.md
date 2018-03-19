@@ -5,18 +5,18 @@
 ### 具体情况
 * 我从 2013 年开始翻译 Youtube 视频     
 * 主要是 10 分钟左右视频 + 科学类视频 + Crash Course
-
 * 做了差不多一年半 (业余时间做，这个肯定不是主业，因为完全赚不到钱)
 * 然后和朋友成立了 [Crash Course 字幕组](http://weibo.com/u/5237129097) 
-
-* 然后就谈出不做了（我是程序员，忙）
+* 然后就淡出不做了（忙于生活，我是程序员）
 * 最近（2018年）又回来偶尔翻一点视频
 * 2018 年我主要在做 [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
 
-   
+<br/>
+
 ## 推荐关注的 B 站 up 主（Crash Course 相关）
 暂时是空的，晚点补
 
+<br/>
 
 ##  Crash Course 已翻译视频
 想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)
@@ -38,10 +38,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 
 ---
 
-
-### 零碎科学类视频
-列个表在这里是因为我都是翻完了扔优酷/新浪，然后微博发视频链接。
-微博翻页累而且乱。列个表会好很多。
 
 #### Stated Clearly
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
