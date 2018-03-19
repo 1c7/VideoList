@@ -10,14 +10,14 @@
 然后就谈出不做了（我是程序员，忙） <br/><br/>
 
 最近（2018年）又回来偶尔翻一点视频 <br/>  
-2018 年我主要在做[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
+2018 年我主要在做 [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
 
 ### 加入 Crash Course  字幕组   
 Q 群： __305631757__    
 [微博](http://weibo.com/u/5237129097)    
 
 ### 推荐关注的 B 站 up 主（Crash Course 相关）
-
+暂时是空的，晚点补
 
 ###  Crash Course 已翻译视频目录
 
