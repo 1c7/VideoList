@@ -4,29 +4,33 @@
 ### 具体情况
 我从 2013 年开始翻译 Youtube 视频     
 主要是 10 分钟左右视频 + 科学类视频 + Crash Course <br/>
-做了差不多一年半 (当然是业余时间, 这个肯定不是主业) 
-然后和朋友成立了 Crash Course 字幕组      
-然后就谈出不做了      
-最近又回来偶尔翻一点视频     
+做了差不多一年半 (业余时间做，这个肯定不是主业，因为完全赚不到钱)<br/><br/>
+
+然后和朋友成立了 Crash Course 字幕组<br/>
+然后就谈出不做了（我是程序员，忙） <br/><br/>
+
+最近（2018年）又回来偶尔翻一点视频 <br/>  
 2018 年我主要在做[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
 
-### 如何加入 Crash Course  字幕组   
+### 加入 Crash Course  字幕组   
 Q 群： __305631757__    
 [微博](http://weibo.com/u/5237129097)    
+
+### 推荐关注的 B 站 up 主（Crash Course 相关）
 
 
 ###  Crash Course 已翻译视频目录
 
-##### 【心理学】速成班 - Crash Course Psychology
+#### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
 
-##### 【生物学】速成班 - Crash Course Biology (共40集)
+#### 【生物学】速成班 - Crash Course Biology (共40集)
 http://v.163.com/special/opencourse/crashcoursebiology.html    
 
-##### 【生态学】速成班 - Crash Course Ecology (共12集)
+#### 【生态学】速成班 - Crash Course Ecology (共12集)
 http://v.163.com/special/opencourse/crashcourseecology.html    
 
-##### 【化学】速成班 - Crash Course Chemistry (共46集)
+#### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
 ---
@@ -35,8 +39,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 ### 零碎科学类视频
 列个表在这里是因为我都是翻完了扔优酷/新浪，然后微博发视频链接。
 微博翻页累而且乱。列个表会好很多。
-
-
 
 #### Stated Clearly
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
@@ -47,10 +49,8 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
 
 
-
-
 #### 太空
-这部分的来源比较杂.  
+这部分来源比较杂     
 但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
 
 * [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNjY1NzUzNDgw.html)
@@ -70,7 +70,6 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [游览国际空间站- 和谐号节点舱 & 宁静号节点舱 & 团结号节点舱](http://v.youku.com/v_show/id_XNTc2MTA1ODQ4.html)    
 * [国际空间站-穹顶舱 Window on the World](http://v.youku.com/v_show/id_XNjY3NDgwNjg4.html)     
 * [宇航员在国际空间站过感恩节(有空间站上吃饭的镜头)](http://v.youku.com/v_show/id_XNjY3NTYyMTM2.html)   
-
 
 #### 太空音乐 & 其他
 * [国际空间站里玩长笛二重奏 - 伊恩·安德森,卡迪·科尔曼](http://www.weibo.com/2004104451/zDvkww9CF?mod=weibotime)  
@@ -102,9 +101,7 @@ http://v.163.com/special/opencourse/crashcoursechemistry.html
 * [染色体的结构 - How DNA is Packaged (Advanced)](http://www.weibo.com/2004104451/zDvSljd5T?mod=weibotime)  
 
 #### 搬运系列(字幕来源网络,非本人翻译)
-来源TED-ed:   
-http://ed.ted.com/   
-http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA  
+来源 TED-ed  
 
 * [鱼的自述: 我曾是浮游生物的秘密生活](http://video.sina.com.cn/v/b/110758524-2004104451.html)
 * [原子对撞机是怎么工作的 | How does an atom-smashing](http://video.sina.com.cn/v/b/110759144-2004104451.html)
@@ -125,8 +122,7 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [简单的理念如何带领科学发现 -- 流言终结者主持人: 亚当·萨维奇](http://www.weibo.com/2004104451/zsA5z7BIb) 
 
 #### Smarter Every Day
-视频来自Youtube的Smarter Every Day频道.  
-地址是:   http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA
+视频来自 [Smarter Every Day](http://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
 
 * [Smarter Every Day 53 - 会旋转的粘性液体](http://v.youku.com/v_show/id_XNDU5NTQwNDc2.html?f=18563154) <br/> 
 * ( 上面这个视频是[煎蛋小学堂](http://www.weibo.com/jandanxxt?topnav=1&wvr=5&topsug=1)的, 翻译者是[JVINIC](http://www.weibo.com/jvinic?topnav=1&wvr=5&topsug=1), 在这里推荐一下. ) <br/>
@@ -166,3 +162,4 @@ http://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 * [菲利普 L 怀特 动物博物馆 - BrainScoop](http://v.youku.com/v_show/id_XNTc3NjYxNTEy.html)
 
 
+感谢阅读
