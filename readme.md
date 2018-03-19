@@ -1,25 +1,28 @@
 ## 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
-都是 @糖醋陈皮 翻译的，因为到处都是（优酷，网易公开课，B站），这里整理下    
+这里不是代码，都是 @糖醋陈皮 翻译的视频    
+因为视频到处都是（优酷，网易公开课，B站）所以这里整理下    
 
 ### 具体情况
-我从 2013 年开始翻译 Youtube 视频     
-主要是 10 分钟左右视频 + 科学类视频 + Crash Course <br/>
-做了差不多一年半 (业余时间做，这个肯定不是主业，因为完全赚不到钱)<br/><br/>
+* 我从 2013 年开始翻译 Youtube 视频     
+* 主要是 10 分钟左右视频 + 科学类视频 + Crash Course
 
-然后和朋友成立了 Crash Course 字幕组<br/>
-然后就谈出不做了（我是程序员，忙） <br/><br/>
+* 做了差不多一年半 (业余时间做，这个肯定不是主业，因为完全赚不到钱)
+* 然后和朋友成立了 [Crash Course 字幕组](http://weibo.com/u/5237129097) 
 
-最近（2018年）又回来偶尔翻一点视频 <br/>  
-2018 年我主要在做 [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
+* 然后就谈出不做了（我是程序员，忙）
+* 最近（2018年）又回来偶尔翻一点视频
+* 2018 年我主要在做 [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
 
-### 加入 Crash Course  字幕组   
-Q 群： __305631757__    
-[微博](http://weibo.com/u/5237129097)    
-
-### 推荐关注的 B 站 up 主（Crash Course 相关）
+   
+## 推荐关注的 B 站 up 主（Crash Course 相关）
 暂时是空的，晚点补
 
-###  Crash Course 已翻译视频目录
+
+##  Crash Course 已翻译视频
+想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)
+
+以下 Crash Course 视频是 2015 年整理的，现在不再维护   
+因为视频太多了，没法都列在这里。麻烦下载 App 或 [关注字幕组微博](http://weibo.com/u/5237129097)     
 
 #### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
