@@ -1,5 +1,5 @@
-## 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
-这里不是代码，都是 @糖醋陈皮 翻译的视频    
+## 这里是 @糖醋陈皮 的视频列表
+这里不是代码，是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 翻译的视频    
 因为视频到处都是（优酷，网易公开课，B站）所以这里整理下    
 
 ### 具体情况
@@ -22,7 +22,7 @@
 想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)   
 
 以下 Crash Course 视频是 2015 年整理的，现在不再维护 <br/>
-因为视频太多了，没法都列在这里。麻烦下载 App 或 [关注字幕组微博](http://weibo.com/u/5237129097) <br/> 
+因为视频太多了，没法都列在这里。麻烦 [下载 App](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App) 或 [关注字幕组微博](http://weibo.com/u/5237129097) <br/> 
 
 #### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
