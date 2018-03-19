@@ -36,23 +36,17 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
-
+<br/>
 
 ## 其他视频
 
 #### Stated Clearly
-原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
-![Stated Clearly Image](readme-img/Stated-Clearly.png)  <br>
 * [什么是DNA? - What is DNA?](http://v.youku.com/v_show/id_XNTY2NzA4MTI4.html)
 * [什么是基因? - What is a gene?](http://v.youku.com/v_show/id_XNTY2NTA5NDMy.html)
 * [什么是进化? - What is Evolution?](http://v.youku.com/v_show/id_XNTg5MzQ1ODI0.html)
 * [什么是自然选择? - What is Natural Selection?](http://v.youku.com/v_show/id_XNTkyMDUwMzgw.html)
 
-
 #### 太空
-这部分来源比较杂     
-但主要来自加拿大航天局(canadianspaceagency): http://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ 
-
 * [(加拿大航天局) 在太空里怎么刷牙?](http://v.youku.com/v_show/id_XNjY1NzUzNDgw.html)
 * [(TED-ed) 宇航员的生活](http://www.weibo.com/2004104451/ztboXsKef)
 * [(SciShow) 太空垃圾-下一个大困境](http://www.weibo.com/2004104451/zsiaxtWXs)
