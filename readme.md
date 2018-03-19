@@ -1,5 +1,6 @@
-## 这里是 @糖醋陈皮 的视频列表
-这里不是代码，是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 翻译的视频    
+## 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
+这里不是代码，都是我翻的视频 <br/>
+我主要翻 [Crash Course](https://www.youtube.com/user/crashcourse) 视频 <br/>     
 因为视频到处都是（优酷，网易公开课，B站）所以这里整理下    
 
 ### 具体情况
