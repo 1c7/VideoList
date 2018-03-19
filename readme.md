@@ -1,24 +1,21 @@
-#### 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&)(新浪微博) 的视频列表。
+## 这里是 [@糖醋陈皮](http://www.weibo.com/u/2004104451?wvr=5&) 的视频列表
+都是 @糖醋陈皮 翻译的，因为到处都是（优酷，网易公开课，B站），这里整理下    
+
+### 具体情况
+我从 2013 年开始翻译 Youtube 视频     
+主要是 10 分钟左右视频 + 科学类视频 + Crash Course <br/>
+做了差不多一年半 (当然是业余时间, 这个肯定不是主业) 
+然后和朋友成立了 Crash Course 字幕组      
+然后就谈出不做了      
+最近又回来偶尔翻一点视频     
+2018 年我主要在做[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
+
+### 如何加入 Crash Course  字幕组   
+Q 群： __305631757__    
+[微博](http://weibo.com/u/5237129097)    
 
 
-##### 介绍下是个什么情况
-我从 2013 年开始翻译 Youtube 视频，翻译自己喜欢的东西.    
-主要是 10 分钟左右, 科学类的视频以及 Crash Course.    
-做了差不多一年半吧 (当然是业余时间, 这个肯定不是主业)   
-期间和朋友成立了 Crash Course 字幕组.  主要翻译 Crash Course 的视频.     
-现在已经不翻译视频了. 有很多自己的事情要忙. (我现在在做 Ruby on Rails 开发)     
-这个表上半部分放 Crash Course 的视频, 下半部分放我翻译的零碎视频.  
-
-总结下  
-自己独立翻译喜欢的视频 -> 认识了很多朋友 -> 成立了字幕组 -> 现在因为各种原因不再翻译了.不过偶尔帮忙字幕组里的事(比如给新人回答下基础知识, 软件怎么用)    
-
-##### 如何加入字幕组?
-字幕组 QQ 群号： __305631757__    
-[Crash Course 字幕组微博地址](http://weibo.com/u/5237129097)    
-
-
-####  Crash Course 已翻译视频目录
-
+###  Crash Course 已翻译视频目录
 
 ##### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
@@ -28,9 +25,9 @@ http://v.163.com/special/opencourse/crashcoursebiology.html
 
 ##### 【生态学】速成班 - Crash Course Ecology (共12集)
 http://v.163.com/special/opencourse/crashcourseecology.html    
+
 ##### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
-
 
 ---
 
