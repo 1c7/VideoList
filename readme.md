@@ -19,10 +19,10 @@
 <br/>
 
 ##  Crash Course 已翻译视频
-想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)
+想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)   
 
-以下 Crash Course 视频是 2015 年整理的，现在不再维护   
-因为视频太多了，没法都列在这里。麻烦下载 App 或 [关注字幕组微博](http://weibo.com/u/5237129097)     
+以下 Crash Course 视频是 2015 年整理的，现在不再维护 <br/>
+因为视频太多了，没法都列在这里。麻烦下载 App 或 [关注字幕组微博](http://weibo.com/u/5237129097) <br/> 
 
 #### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
@@ -36,8 +36,9 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
 
----
 
+
+## 其他视频
 
 #### Stated Clearly
 原地址: http://www.youtube.com/user/sciencestatedclearly/videos  <br>
