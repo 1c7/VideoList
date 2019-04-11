@@ -12,18 +12,11 @@
 * 最近（2018年）又回来偶尔翻一点视频
 * 2018 年我主要在做 [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
 
-<br/>
-
-## 推荐关注的 B 站 up 主（Crash Course 相关）
-暂时是空的，晚点补
-
-<br/>
-
 ##  Crash Course 已翻译视频
-想得到最新最全的视频，下载 [CC 速成班](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App)   
+想看最新视频可下载 [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)   
 
 以下 Crash Course 视频是 2015 年整理的，现在不再维护 <br/>
-因为视频太多了，没法都列在这里。麻烦 [下载 App](https://github.com/1c7/CrashCourse-Chinese-ReactNative-App) 或 [关注字幕组微博](http://weibo.com/u/5237129097) <br/> 
+[可关注字幕组微博](http://weibo.com/u/5237129097) <br/> 
 
 #### 【心理学】速成班 - Crash Course Psychology
 http://v.163.com/special/opencourse/crashcoursepsychology.html
@@ -36,8 +29,6 @@ http://v.163.com/special/opencourse/crashcourseecology.html
 
 #### 【化学】速成班 - Crash Course Chemistry (共46集)
 http://v.163.com/special/opencourse/crashcoursechemistry.html   
-
-<br/>
 
 ## 其他视频
 
